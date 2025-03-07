@@ -53,3 +53,8 @@ else
     Console.WriteLine("успех");
 }
 ```
+
+formatted string/error string
+
+![image](https://github.com/user-attachments/assets/88392510-decc-4a3f-9a13-ab1bb9ef3942)
+
