@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork9\\task1\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|solutionrelative:task1\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\task1\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|solutionrelative:task1\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork9\\task1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|solutionrelative:task1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\task1\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF8C264-70C6-49E4-A346-461D876C87DF}|Task1\\Task1.csproj|solutionrelative:task1\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFigure.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\IFigure.cs",
+              "RelativeDocumentMoniker": "Task1\\IFigure.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\IFigure.cs",
+              "RelativeToolTip": "Task1\\IFigure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:59:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\IPrinter.cs",
+              "RelativeDocumentMoniker": "Task1\\IPrinter.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\IPrinter.cs",
+              "RelativeToolTip": "Task1\\IPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:25:28.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:12:12.85Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\Triangle.cs",
+              "RelativeDocumentMoniker": "Task1\\Triangle.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\Triangle.cs",
+              "RelativeToolTip": "Task1\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:34:08.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AviaFlight.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\AviaFlight.cs",
+              "RelativeDocumentMoniker": "Task1\\AviaFlight.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork9\\Task1\\AviaFlight.cs",
+              "RelativeToolTip": "Task1\\AviaFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:20:47.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

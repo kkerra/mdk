@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>bumblebee.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\AlexBrush-Regular.ttf" />
+    <None Remove="Fonts\Amatic-Bold.ttf" />
+    <None Remove="Fonts\AmaticSC-Regular.ttf" />
+    <None Remove="Fonts\Pacifico.ttf" />
+    <None Remove="Fonts\PressStart2P-Regular.ttf" />
+    <None Remove="Fonts\William Narasi.otf" />
+    <None Remove="Images\background.jpg" />
+    <None Remove="Images\galaxy.jpg" />
+    <None Remove="Images\plant.png" />
+    <None Remove="Images\zombie ball.png" />
+    <None Remove="Images\zombie.png" />
+    <None Remove="working.ani" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bumblebee.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fonts\AlexBrush-Regular.ttf" />
+    <Resource Include="Fonts\Amatic-Bold.ttf" />
+    <Resource Include="Fonts\AmaticSC-Regular.ttf" />
+    <Resource Include="Fonts\Pacifico.ttf" />
+    <Resource Include="Fonts\PressStart2P-Regular.ttf" />
+    <Resource Include="Fonts\William Narasi.otf" />
+    <Resource Include="Images\background.jpg" />
+    <Resource Include="Images\galaxy.jpg" />
+    <Resource Include="Images\plant.png" />
+    <Resource Include="Images\zombie ball.png" />
+    <Resource Include="Images\zombie.png" />
+    <Resource Include="working.ani" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

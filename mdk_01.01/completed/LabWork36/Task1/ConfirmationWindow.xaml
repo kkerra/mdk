@@ -1,0 +1,15 @@
+﻿<Window x:Class="Task1.ConfirmationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="Confirmation" Height="200" Width="470" ResizeMode="NoResize">
+    <Canvas>
+        <Label Content="Вы хотите закрыть приложение?" Canvas.Left="170" Canvas.Top="42" FontSize="18"/>
+        <Button x:Name="yesButton" Content="Да" Canvas.Left="200" Canvas.Top="130" Width="50" Background="GreenYellow" FontSize="18" IsDefault="True" Click="YesButton_Click"/>
+        <Button x:Name="noButton" Content="Нет" Canvas.Left="350" Canvas.Top="130" Width="50" Background="Red" FontSize="18" IsCancel="True"/>
+        <Image Height="100" Canvas.Left="50" Canvas.Top="40" Width="100" Source="/i.webp"/>
+    </Canvas>
+</Window>

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126D17FA-E3E4-4FA8-B98E-22A200CE26A9}|Task5\\Task5.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork10\\task5\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D17FA-E3E4-4FA8-B98E-22A200CE26A9}|Task5\\Task5.csproj|solutionrelative:task5\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942137FA-168F-4384-B048-00AB93AB039F}|Task4\\Task4.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task4\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942137FA-168F-4384-B048-00AB93AB039F}|Task4\\Task4.csproj|solutionrelative:task4\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A8F2D0-F896-4810-8FC6-D1054FF25E7C}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task3\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A8F2D0-F896-4810-8FC6-D1054FF25E7C}|Task3\\Task3.csproj|solutionrelative:task3\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F30BE0-DE39-4937-8727-97B13214758C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task2\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F30BE0-DE39-4937-8727-97B13214758C}|Task2\\Task2.csproj|solutionrelative:task2\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E933B768-7A39-464A-9469-B9520B11ED1C}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task1\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E933B768-7A39-464A-9469-B9520B11ED1C}|Task1\\Task1.csproj|solutionrelative:task1\\aviaflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E933B768-7A39-464A-9469-B9520B11ED1C}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E933B768-7A39-464A-9469-B9520B11ED1C}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F30BE0-DE39-4937-8727-97B13214758C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F30BE0-DE39-4937-8727-97B13214758C}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A8F2D0-F896-4810-8FC6-D1054FF25E7C}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A8F2D0-F896-4810-8FC6-D1054FF25E7C}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942137FA-168F-4384-B048-00AB93AB039F}|Task4\\Task4.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942137FA-168F-4384-B048-00AB93AB039F}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D17FA-E3E4-4FA8-B98E-22A200CE26A9}|Task5\\Task5.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task5\\stringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D17FA-E3E4-4FA8-B98E-22A200CE26A9}|Task5\\Task5.csproj|solutionrelative:task5\\stringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D17FA-E3E4-4FA8-B98E-22A200CE26A9}|Task5\\Task5.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D17FA-E3E4-4FA8-B98E-22A200CE26A9}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D17FA-E3E4-4FA8-B98E-22A200CE26A9}|Task5\\Task5.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\task5\\descendingcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D17FA-E3E4-4FA8-B98E-22A200CE26A9}|Task5\\Task5.csproj|solutionrelative:task5\\descendingcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AviaFlight.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task5\\AviaFlight.cs",
+              "RelativeDocumentMoniker": "Task5\\AviaFlight.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task5\\AviaFlight.cs",
+              "RelativeToolTip": "Task5\\AviaFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:14:39.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DescendingComparer.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task5\\DescendingComparer.cs",
+              "RelativeDocumentMoniker": "Task5\\DescendingComparer.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task5\\DescendingComparer.cs",
+              "RelativeToolTip": "Task5\\DescendingComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:14:27.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:14:20.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StringComparer.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task5\\StringComparer.cs",
+              "RelativeDocumentMoniker": "Task5\\StringComparer.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task5\\StringComparer.cs",
+              "RelativeToolTip": "Task5\\StringComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:14:18.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:45:19.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:45:11.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:44:49.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:43:50.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AviaFlight.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task1\\AviaFlight.cs",
+              "RelativeDocumentMoniker": "Task1\\AviaFlight.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task1\\AviaFlight.cs",
+              "RelativeToolTip": "Task1\\AviaFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:27:36.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AviaFlight.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task2\\AviaFlight.cs",
+              "RelativeDocumentMoniker": "Task2\\AviaFlight.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task2\\AviaFlight.cs",
+              "RelativeToolTip": "Task2\\AviaFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:27:25.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AviaFlight.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task3\\AviaFlight.cs",
+              "RelativeDocumentMoniker": "Task3\\AviaFlight.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task3\\AviaFlight.cs",
+              "RelativeToolTip": "Task3\\AviaFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:35.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AviaFlight.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task4\\AviaFlight.cs",
+              "RelativeDocumentMoniker": "Task4\\AviaFlight.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork10\\Task4\\AviaFlight.cs",
+              "RelativeToolTip": "Task4\\AviaFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:37:18.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

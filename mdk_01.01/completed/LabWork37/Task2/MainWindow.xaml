@@ -1,0 +1,28 @@
+﻿<Window x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBox x:Name="directoryTextBox" Height="20" Text="C:\temp\ispp35\ОПБД"/>
+        <DataGrid x:Name="filesDataGrid" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Имя файла" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Расширение" Binding="{Binding Extension}"/>
+                <DataGridTextColumn Header="Путь" Binding="{Binding DirectoryName}"/>
+                <DataGridTextColumn Header="Размер" Binding="{Binding Length}"/>
+                <DataGridTextColumn Header="Дата создания" Binding="{Binding CreationTime}"/>
+                <DataGridTextColumn Header="Дата последнего изменения" Binding="{Binding LastWriteTime}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="countLabel"/>
+        <Button x:Name="resetFilterButton" Content="Сбросить фильтр" Click="ResetFilterButton_Click"/>
+        <TextBox x:Name="sizeTextBox" Text="Введите размер файла:" TextChanged="SizeTextBox_TextChanged"/>
+        <RadioButton x:Name="greaterSizeRadioButton" Content="Больше или равно" IsChecked="False" GroupName="sizeRadioButtons" />
+        <RadioButton x:Name="lessSizeRadioButton" Content="Меньше или равно" IsChecked="False" GroupName="sizeRadioButtons"/>
+        <RadioButton x:Name="allFilesRadioButton" Content="Все файлы" IsChecked="True" GroupName="sizeRadioButtons"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,40 @@
+C:\temp\ispp35\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.exe
+C:\temp\ispp35\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.deps.json
+C:\temp\ispp35\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.runtimeconfig.json
+C:\temp\ispp35\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.dll
+C:\temp\ispp35\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.pdb
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4_MarkupCompile.cache
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4_MarkupCompile.lref
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.g.resources
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.AssemblyInfoInputs.cache
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.AssemblyInfo.cs
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.dll
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\refint\Task4.dll
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.pdb
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.genruntimeconfig.cache
+C:\temp\ispp35\LabWork35\Task4\obj\Debug\net8.0-windows\ref\Task4.dll
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.exe
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.deps.json
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.runtimeconfig.json
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.dll
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\bin\Debug\net8.0-windows\Task4.pdb
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4_MarkupCompile.cache
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4_MarkupCompile.lref
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.g.resources
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.AssemblyInfoInputs.cache
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.AssemblyInfo.cs
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.dll
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\refint\Task4.dll
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.pdb
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\Task4.genruntimeconfig.cache
+C:\temp\ispp35\МДК 01.01\LabWork35\Task4\obj\Debug\net8.0-windows\ref\Task4.dll

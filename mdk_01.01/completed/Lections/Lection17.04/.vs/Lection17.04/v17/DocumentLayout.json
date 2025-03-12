@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\Lection17.04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\navigationproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\themes\\common.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\pages\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\pages\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\pages\\newspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\navigationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\pages\\newspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE2913-1679-40B2-9984-2D13361FF11A}|..\\NavigationProject\\NavigationProject.csproj|c:\\temp\\ispp35\\navigationproject\\pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\App.config",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\App.config",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\App.config",
+              "RelativeToolTip": "..\\NavigationProject\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-22T09:33:47.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavigationProject",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\NavigationProject.csproj",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\NavigationProject.csproj",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\NavigationProject.csproj",
+              "RelativeToolTip": "..\\NavigationProject\\NavigationProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T09:29:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Themes\\Light.xaml",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Themes\\Light.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Themes\\Light.xaml",
+              "RelativeToolTip": "..\\NavigationProject\\Themes\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T08:17:21.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Themes\\Dark.xaml",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Themes\\Dark.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Themes\\Dark.xaml",
+              "RelativeToolTip": "..\\NavigationProject\\Themes\\Dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T08:17:08.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Pages\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Pages\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Pages\\AboutPage.xaml.cs",
+              "RelativeToolTip": "..\\NavigationProject\\Pages\\AboutPage.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAWwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:02:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\App.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\App.xaml.cs",
+              "RelativeToolTip": "..\\NavigationProject\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:11:28.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Pages\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Pages\\AboutPage.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Pages\\AboutPage.xaml",
+              "RelativeToolTip": "..\\NavigationProject\\Pages\\AboutPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T10:46:30.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\MainWindow.xaml",
+              "RelativeToolTip": "..\\NavigationProject\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T06:31:27.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\NavigationProject\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwC4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:42:08.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Properties\\Settings.settings",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Properties\\Settings.settings",
+              "RelativeToolTip": "..\\NavigationProject\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-22T09:29:35.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Themes\\Common.xaml",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Themes\\Common.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Themes\\Common.xaml",
+              "RelativeToolTip": "..\\NavigationProject\\Themes\\Common.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T08:17:33.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsPage.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Pages\\NewsPage.xaml",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Pages\\NewsPage.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Pages\\NewsPage.xaml",
+              "RelativeToolTip": "..\\NavigationProject\\Pages\\NewsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T09:54:12.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\App.xaml",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\App.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\App.xaml",
+              "RelativeToolTip": "..\\NavigationProject\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T07:11:30.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavigationProject",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\NavigationProject.csproj",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\NavigationProject.csproj",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\NavigationProject.csproj",
+              "RelativeToolTip": "..\\NavigationProject\\NavigationProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T08:04:12.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Pages\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Pages\\MenuPage.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Pages\\MenuPage.xaml.cs",
+              "RelativeToolTip": "..\\NavigationProject\\Pages\\MenuPage.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:03:58.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewsPage.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Pages\\NewsPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Pages\\NewsPage.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Pages\\NewsPage.xaml.cs",
+              "RelativeToolTip": "..\\NavigationProject\\Pages\\NewsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:11:30.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\NavigationProject\\Pages\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "..\\NavigationProject\\Pages\\MenuPage.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\NavigationProject\\Pages\\MenuPage.xaml",
+              "RelativeToolTip": "..\\NavigationProject\\Pages\\MenuPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T07:05:04.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

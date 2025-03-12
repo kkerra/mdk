@@ -1,0 +1,17 @@
+C:\temp\ispp35\Lection15.03\Lection15.03\bin\Debug\net8.0-windows\Lection15.03.exe
+C:\temp\ispp35\Lection15.03\Lection15.03\bin\Debug\net8.0-windows\Lection15.03.deps.json
+C:\temp\ispp35\Lection15.03\Lection15.03\bin\Debug\net8.0-windows\Lection15.03.runtimeconfig.json
+C:\temp\ispp35\Lection15.03\Lection15.03\bin\Debug\net8.0-windows\Lection15.03.dll
+C:\temp\ispp35\Lection15.03\Lection15.03\bin\Debug\net8.0-windows\Lection15.03.pdb
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15._03.SearchForm.resources
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15._03.TextEditorForm.resources
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15.03.csproj.GenerateResource.cache
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15.03.AssemblyInfoInputs.cache
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15.03.AssemblyInfo.cs
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15.03.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15.03.dll
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\refint\Lection15.03.dll
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15.03.pdb
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\Lection15.03.genruntimeconfig.cache
+C:\temp\ispp35\Lection15.03\Lection15.03\obj\Debug\net8.0-windows\ref\Lection15.03.dll

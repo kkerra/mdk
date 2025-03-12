@@ -1,0 +1,17 @@
+C:\temp\ispp35\Lection09.04\Lection09.04\bin\Debug\net8.0\Lection09.04.exe
+C:\temp\ispp35\Lection09.04\Lection09.04\bin\Debug\net8.0\Lection09.04.deps.json
+C:\temp\ispp35\Lection09.04\Lection09.04\bin\Debug\net8.0\Lection09.04.runtimeconfig.json
+C:\temp\ispp35\Lection09.04\Lection09.04\bin\Debug\net8.0\Lection09.04.dll
+C:\temp\ispp35\Lection09.04\Lection09.04\bin\Debug\net8.0\Lection09.04.pdb
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Lection09.04.csproj.ResolveComReference.cache
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Lection09.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Lection09.04.AssemblyInfoInputs.cache
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Lection09.04.AssemblyInfo.cs
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Lection09.04.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Lection09.04.dll
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\refint\Lection09.04.dll
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Lection09.04.pdb
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\Lection09.04.genruntimeconfig.cache
+C:\temp\ispp35\Lection09.04\Lection09.04\obj\Debug\net8.0\ref\Lection09.04.dll

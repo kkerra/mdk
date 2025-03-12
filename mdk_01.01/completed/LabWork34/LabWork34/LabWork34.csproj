@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1904659-arrow-backup-down-download-save-storage-transfer_122509.ico" />
+    <None Remove="1904677-add-addition-calculate-charge-create-new-plus_122527.ico" />
+    <None Remove="4115230-cancel-close-cross-delete_114048.ico" />
+    <None Remove="Icons\1904659-arrow-backup-down-download-save-storage-transfer_122509.ico" />
+    <None Remove="Icons\1904677-add-addition-calculate-charge-create-new-plus_122527.ico" />
+    <None Remove="Icons\4115230-cancel-close-cross-delete_114048.ico" />
+    <None Remove="Icons\RGB_Circle_1-80_icon-icons.com_57282.ico" />
+    <None Remove="Icons\text-format_117300.ico" />
+    <None Remove="RGB_Circle_1-80_icon-icons.com_57282.ico" />
+    <None Remove="text-format_117300.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1904659-arrow-backup-down-download-save-storage-transfer_122509.ico" />
+    <Resource Include="1904677-add-addition-calculate-charge-create-new-plus_122527.ico" />
+    <Resource Include="4115230-cancel-close-cross-delete_114048.ico" />
+    <Resource Include="Icons\1904659-arrow-backup-down-download-save-storage-transfer_122509.ico" />
+    <Resource Include="Icons\1904677-add-addition-calculate-charge-create-new-plus_122527.ico" />
+    <Resource Include="Icons\4115230-cancel-close-cross-delete_114048.ico" />
+    <Resource Include="Icons\RGB_Circle_1-80_icon-icons.com_57282.ico" />
+    <Resource Include="Icons\text-format_117300.ico" />
+    <Resource Include="RGB_Circle_1-80_icon-icons.com_57282.ico" />
+    <Resource Include="text-format_117300.ico" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,54 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <ListView x:Name="gamesListView" ItemsSource="{Binding Games}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Номер" DisplayMemberBinding="{Binding IdGame}"/>
+                    <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Описание" DisplayMemberBinding="{Binding Description}"/>
+                    <GridViewColumn Header="Категория" DisplayMemberBinding="{Binding Category}"/>
+                    <GridViewColumn Header="Цена" DisplayMemberBinding="{Binding Price}"/>
+                    <GridViewColumn Header="Скидка" DisplayMemberBinding="{Binding Discount}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="gameIdTextBox" Text="{Binding ElementName=gamesListView, Path=SelectedItem.IdGame}"/>
+        <TextBox x:Name="nameTextBox">
+            <TextBox.Text>
+                <Binding ElementName="gamesListView" Path="SelectedItem.Name" NotifyOnValidationError="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox x:Name="descriptionTextBox" Text="{Binding ElementName=gamesListView, Path=SelectedItem.Description}"/>
+        <TextBox x:Name="priceTextBox">
+            <TextBox.Text>
+                <Binding ElementName="gamesListView" Path="SelectedItem.Price" NotifyOnValidationError="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox x:Name="discountTextBox">
+            <TextBox.Text>
+                <Binding ElementName="gamesListView" Path="SelectedItem.Discount" NotifyOnValidationError="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox x:Name="categoryTextBox" Text="{Binding ElementName=gamesListView, Path=SelectedItem.Category}"/>
+        <ComboBox x:Name="categoryComboBox" SelectionChanged="CategoryComboBox_SelectionChanged"/>
+    </StackPanel>
+</Window>

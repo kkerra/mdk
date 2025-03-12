@@ -1,0 +1,19 @@
+﻿<Window x:Class="Task5.ColorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task5"
+        mc:Ignorable="d"
+        Title="ColorWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Красный"/>
+        <Slider x:Name="redSlider" Maximum="255" Width="300" HorizontalAlignment="Left"/>        
+        <Label Content="Зеленый"/>
+        <Slider x:Name="greenSlider" Maximum="255" Width="300" HorizontalAlignment="Left"/>        
+        <Label Content="Синий"/>
+        <Slider x:Name="blueSlider" Maximum="255" Width="300" HorizontalAlignment="Left"/>
+        <Button x:Name="yesButton" Content="Да" Width="50" Background="GreenYellow" FontSize="15" IsDefault="True" HorizontalAlignment="Left" Click="YesButton_Click"/>
+        <Button x:Name="noButton" Content="Нет" Width="50" Background="Red" FontSize="15" IsCancel="True" HorizontalAlignment="Left"/>
+    </StackPanel>
+</Window>

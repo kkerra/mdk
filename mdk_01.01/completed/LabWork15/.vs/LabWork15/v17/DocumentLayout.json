@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\LabWork15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3F40C-A743-45B2-9EE4-3066BAB5D8E4}|Task1\\Task1.csproj|c:\\temp\\ispp35\\labwork15\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3F40C-A743-45B2-9EE4-3066BAB5D8E4}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2557CA-0EF4-4EEA-BE95-99C2A3CF59BC}|Task3\\Task3.csproj|c:\\temp\\ispp35\\labwork15\\task3\\texteditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2557CA-0EF4-4EEA-BE95-99C2A3CF59BC}|Task3\\Task3.csproj|solutionrelative:task3\\texteditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2557CA-0EF4-4EEA-BE95-99C2A3CF59BC}|Task3\\Task3.csproj|c:\\temp\\ispp35\\labwork15\\task3\\texteditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B2557CA-0EF4-4EEA-BE95-99C2A3CF59BC}|Task3\\Task3.csproj|solutionrelative:task3\\texteditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2557CA-0EF4-4EEA-BE95-99C2A3CF59BC}|Task3\\Task3.csproj|c:\\temp\\ispp35\\labwork15\\task3\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B2557CA-0EF4-4EEA-BE95-99C2A3CF59BC}|Task3\\Task3.csproj|solutionrelative:task3\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C65A7E0-09B9-4282-A9B0-7CFDCDC377FF}|Task2\\Task2.csproj|c:\\temp\\ispp35\\labwork15\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C65A7E0-09B9-4282-A9B0-7CFDCDC377FF}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextEditorForm.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\LabWork15\\Task3\\TextEditorForm.cs",
+              "RelativeDocumentMoniker": "Task3\\TextEditorForm.cs",
+              "ToolTip": "C:\\temp\\ispp35\\LabWork15\\Task3\\TextEditorForm.cs",
+              "RelativeToolTip": "Task3\\TextEditorForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:42:29.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextEditorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\temp\\ispp35\\LabWork15\\Task3\\TextEditorForm.cs",
+              "RelativeDocumentMoniker": "Task3\\TextEditorForm.cs",
+              "ToolTip": "C:\\temp\\ispp35\\LabWork15\\Task3\\TextEditorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Task3\\TextEditorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:42:01.244Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\temp\\ispp35\\LabWork15\\Task3\\SearchForm.cs",
+              "RelativeDocumentMoniker": "Task3\\SearchForm.cs",
+              "ToolTip": "C:\\temp\\ispp35\\LabWork15\\Task3\\SearchForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Task3\\SearchForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:32:33.592Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\LabWork15\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\LabWork15\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:53:07.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\LabWork15\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\LabWork15\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA9wDIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:14:25.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

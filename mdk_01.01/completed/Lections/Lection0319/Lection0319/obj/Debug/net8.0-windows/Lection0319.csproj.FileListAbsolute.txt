@@ -1,0 +1,16 @@
+C:\temp\ispp35\Lection0319\Lection0319\bin\Debug\net8.0-windows\Lection0319.exe
+C:\temp\ispp35\Lection0319\Lection0319\bin\Debug\net8.0-windows\Lection0319.deps.json
+C:\temp\ispp35\Lection0319\Lection0319\bin\Debug\net8.0-windows\Lection0319.runtimeconfig.json
+C:\temp\ispp35\Lection0319\Lection0319\bin\Debug\net8.0-windows\Lection0319.dll
+C:\temp\ispp35\Lection0319\Lection0319\bin\Debug\net8.0-windows\Lection0319.pdb
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.GamesForm.resources
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.csproj.GenerateResource.cache
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.AssemblyInfoInputs.cache
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.AssemblyInfo.cs
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.dll
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\refint\Lection0319.dll
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.pdb
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\Lection0319.genruntimeconfig.cache
+C:\temp\ispp35\Lection0319\Lection0319\obj\Debug\net8.0-windows\ref\Lection0319.dll

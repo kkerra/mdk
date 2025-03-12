@@ -1,0 +1,32 @@
+﻿<Window x:Class="Task5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <DataTemplate x:Key="UserTemplate">
+            
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="usersListBox" DisplayMemberPath="Login" SelectionMode="Multiple"/>
+        <ListView x:Name="usersListView" DisplayMemberPath="Login" SelectionMode="Multiple" Grid.Row="1"/>
+        <ComboBox x:Name="usersComboBox" DisplayMemberPath="Login" Grid.Row="2"/>
+        <Label x:Name="usersListBoxLabel" Grid.Column="1"/>
+        <Label x:Name="usersListViewLabel" Grid.Column="1" Grid.Row="1"/>
+        <Label x:Name="usersComboBoxLabel" Grid.Column="1" Grid.Row="2"/>
+    </Grid>
+</Window>

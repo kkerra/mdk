@@ -1,0 +1,16 @@
+C:\temp\ispp35\PractWork2\PractWork2\bin\Debug\net8.0-windows\PractWork2.exe
+C:\temp\ispp35\PractWork2\PractWork2\bin\Debug\net8.0-windows\PractWork2.deps.json
+C:\temp\ispp35\PractWork2\PractWork2\bin\Debug\net8.0-windows\PractWork2.runtimeconfig.json
+C:\temp\ispp35\PractWork2\PractWork2\bin\Debug\net8.0-windows\PractWork2.dll
+C:\temp\ispp35\PractWork2\PractWork2\bin\Debug\net8.0-windows\PractWork2.pdb
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.Form1.resources
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.csproj.GenerateResource.cache
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.AssemblyInfoInputs.cache
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.AssemblyInfo.cs
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.dll
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\refint\PractWork2.dll
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.pdb
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\PractWork2.genruntimeconfig.cache
+C:\temp\ispp35\PractWork2\PractWork2\obj\Debug\net8.0-windows\ref\PractWork2.dll

@@ -1,0 +1,29 @@
+﻿<Window x:Class="Lection0510.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lection0510"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="200" MouseWheel="Window_MouseWheel" MouseMove="Window_MouseMove">
+    <StackPanel x:Name="panel">
+        <TextBox x:Name="numberTextBox" 
+                 KeyDown="NumberTextBox_KeyDown" 
+                 KeyUp="NumberTextBox_KeyUp"
+                 PreviewKeyDown="NumberTextBox_PreviewKeyDown"
+                 PreviewTextInput="NumberTextBox_PreviewTextInput"/>
+        <WrapPanel Button.Click="NumberButton_Click">
+            <Button Content="1"/>
+            <Button Content="2"/>
+            <Button Content="3"/>
+            <Button Content="4"/>
+            <Button Content="5"/>
+            <Button Content="6"/>
+            <Button Content="7"/>
+            <Button Content="8"/>
+            <Button Content="9"/>
+            <Button Content="0"/>
+        </WrapPanel>
+        <Label x:Name="infoLabel"/>
+    </StackPanel>
+</Window>

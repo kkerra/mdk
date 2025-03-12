@@ -1,0 +1,28 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBox x:Name="directoryTextBox" Height="20" Text="C:\temp\ispp35\ОПБД"/>
+        <DataGrid x:Name="filesDataGrid" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Имя файла" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Расширение" Binding="{Binding Extension}"/>
+                <DataGridTextColumn Header="Путь" Binding="{Binding DirectoryName}"/>
+                <DataGridTextColumn Header="Размер" Binding="{Binding Length}"/>
+                <DataGridTextColumn Header="Дата создания" Binding="{Binding CreationTime}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="showMoreButton" Content="Показать больше"/>
+        <Label x:Name="countLabel"/>
+        <TextBox x:Name="pageSizeTextBox" Text="5" TextChanged="PageSizeTextBox_TextChanged"/>
+        <TextBox x:Name="pageTextBox" TextChanged="PageTextBox_TextChanged"/>
+        <Button Width="50" Content="&lt;&lt;" HorizontalAlignment="Left"/>
+        <Button Width="50" Content="&lt;"/>
+
+    </StackPanel>
+</Window>

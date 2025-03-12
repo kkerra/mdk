@@ -1,0 +1,25 @@
+﻿<Window x:Class="LabWork27.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork27"
+        mc:Ignorable="d"
+        Title="{Binding ElementName=ContentFrame, Path=Content.Title}" Height="450" Width="800">
+    
+    <Grid>        
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="100"/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Border Background="Aqua"/>
+        <Border Background="Aqua" Grid.Row="2"/>
+        <Image Source="/galaxy.jpg" Height="50" HorizontalAlignment="Left"/>
+        <Label Content="Шапка"/>
+        <Frame Grid.Row="1" x:Name="ContentFrame" ContentRendered="ContentFrame_ContentRendered"
+               NavigationUIVisibility="Hidden"/>
+        <Button x:Name="BackButton" Content="Назад" Grid.Row="1" Height="50" Width="50" HorizontalAlignment="Right" VerticalAlignment="Center" Click="BackButton_Click"/>
+        <Label Content="Подвал" Grid.Row="2"/>
+    </Grid>
+</Window>

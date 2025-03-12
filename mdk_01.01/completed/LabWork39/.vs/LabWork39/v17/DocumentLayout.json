@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638BDF55-2494-4B00-96B9-2B76089EABB5}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638BDF55-2494-4B00-96B9-2B76089EABB5}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AB9A98-8A57-4E4B-AACC-727CB76A9166}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\task2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AB9A98-8A57-4E4B-AACC-727CB76A9166}|Task2\\Task2.csproj|solutionrelative:task2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FBD43-A403-4058-A8D7-4FA44D0AD732}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\task3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727FBD43-A403-4058-A8D7-4FA44D0AD732}|Task3\\Task3.csproj|solutionrelative:task3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE822453-40EA-40B7-A41C-23359346F67C}|Task4\\Task4.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork39\\task4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE822453-40EA-40B7-A41C-23359346F67C}|Task4\\Task4.csproj|solutionrelative:task4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55480FB-2361-4582-970D-AB8B28673B74}|Task5\\Task5.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\task5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55480FB-2361-4582-970D-AB8B28673B74}|Task5\\Task5.csproj|solutionrelative:task5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE822453-40EA-40B7-A41C-23359346F67C}|Task4\\Task4.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork39\\task4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE822453-40EA-40B7-A41C-23359346F67C}|Task4\\Task4.csproj|solutionrelative:task4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55480FB-2361-4582-970D-AB8B28673B74}|Task5\\Task5.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork39\\task5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F55480FB-2361-4582-970D-AB8B28673B74}|Task5\\Task5.csproj|solutionrelative:task5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638BDF55-2494-4B00-96B9-2B76089EABB5}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{638BDF55-2494-4B00-96B9-2B76089EABB5}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:35:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task4\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task4\\MainWindow.xaml",
+              "RelativeToolTip": "Task4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T05:35:00.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task5\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task5\\MainWindow.xaml",
+              "RelativeToolTip": "Task5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T11:17:37.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task5\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:59:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:59:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:46:57.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:44:55.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork39\\Task1\\MainWindow.xaml",
+              "RelativeToolTip": "Task1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T09:41:05.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

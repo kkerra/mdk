@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lections\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0255F8-964F-43DB-9BA5-A1874484A12E}|\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u041B\u0435\u043A\u0446\u0438\u044F18.03.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lections\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u043B\u0435\u043A\u0446\u0438\u044F18.03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0255F8-964F-43DB-9BA5-A1874484A12E}|\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u041B\u0435\u043A\u0446\u0438\u044F18.03.csproj|solutionrelative:\u043B\u0435\u043A\u0446\u0438\u044F18.03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0255F8-964F-43DB-9BA5-A1874484A12E}|\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u041B\u0435\u043A\u0446\u0438\u044F18.03.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\lections\\\u043B\u0435\u043A\u0446\u0438\u044F18.03\\\u043B\u0435\u043A\u0446\u0438\u044F18.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0255F8-964F-43DB-9BA5-A1874484A12E}|\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u041B\u0435\u043A\u0446\u0438\u044F18.03.csproj|solutionrelative:\u043B\u0435\u043A\u0446\u0438\u044F18.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lections\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\Person.cs",
+              "RelativeDocumentMoniker": "\u041B\u0435\u043A\u0446\u0438\u044F18.03\\Person.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lections\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\Person.cs",
+              "RelativeToolTip": "\u041B\u0435\u043A\u0446\u0438\u044F18.03\\Person.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:11:44.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lections\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\Program.cs",
+              "RelativeDocumentMoniker": "\u041B\u0435\u043A\u0446\u0438\u044F18.03\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lections\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\\u041B\u0435\u043A\u0446\u0438\u044F18.03\\Program.cs",
+              "RelativeToolTip": "\u041B\u0435\u043A\u0446\u0438\u044F18.03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:01:03.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

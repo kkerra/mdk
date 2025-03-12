@@ -1,0 +1,14 @@
+C:\temp\ispp35\Лекция 9.03\Records\bin\Debug\net8.0\Records.exe
+C:\temp\ispp35\Лекция 9.03\Records\bin\Debug\net8.0\Records.deps.json
+C:\temp\ispp35\Лекция 9.03\Records\bin\Debug\net8.0\Records.runtimeconfig.json
+C:\temp\ispp35\Лекция 9.03\Records\bin\Debug\net8.0\Records.dll
+C:\temp\ispp35\Лекция 9.03\Records\bin\Debug\net8.0\Records.pdb
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\Records.AssemblyInfoInputs.cache
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\Records.AssemblyInfo.cs
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\Records.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\Records.dll
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\refint\Records.dll
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\Records.pdb
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\Records.genruntimeconfig.cache
+C:\temp\ispp35\Лекция 9.03\Records\obj\Debug\net8.0\ref\Records.dll

@@ -1,0 +1,47 @@
+﻿<Window x:Class="Lection1605.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lection1605"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Name="soundplayer" Content="Play">
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <MediaTimeline Source="video\The Matrix.mp4"
+                                               Storyboard.TargetName="myMediaElement"
+                                               />
+                            </Storyboard>                            
+                        </BeginStoryboard>                        
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button x:Name="testSoundPlayer"
+                Content="test soundPlayer"
+                Click="TestSoundPlayer_Click"
+                />
+        <Button x:Name="testSystemSoundPlayer"
+                Content="test system sound"
+                Click="TestSystemSoundPlayer_Click"
+        />
+        <Button x:Name="testMediaPlayer"
+                Content="test mediaPlayer"
+                Click="TestMediaPlayer_Click"
+        />
+        <MediaElement Source="forest.wav"/>
+        <Button x:Name="pauseMediaPlayer"
+                Content="Pause"
+                Click="PauseMediaPlayer_Click"/>
+        <MediaElement x:Name="myMediaElement" LoadedBehavior="Manual" UnloadedBehavior="Stop">
+            <MediaElement.Clip>
+                <EllipseGeometry Center="100,200" RadiusX="200" RadiusY="100"/>
+            </MediaElement.Clip>
+        </MediaElement>
+    </StackPanel>
+</Window>

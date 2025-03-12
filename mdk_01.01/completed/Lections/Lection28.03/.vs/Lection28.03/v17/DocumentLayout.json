@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\Lection28.03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0337D4-4671-4249-A2EE-67730929997F}|Lection28.03\\Lection28.03.csproj|c:\\temp\\ispp35\\lection28.03\\lection28.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0337D4-4671-4249-A2EE-67730929997F}|Lection28.03\\Lection28.03.csproj|solutionrelative:lection28.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0337D4-4671-4249-A2EE-67730929997F}|Lection28.03\\Lection28.03.csproj|c:\\temp\\ispp35\\lection28.03\\lection28.03\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0337D4-4671-4249-A2EE-67730929997F}|Lection28.03\\Lection28.03.csproj|solutionrelative:lection28.03\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0337D4-4671-4249-A2EE-67730929997F}|Lection28.03\\Lection28.03.csproj|c:\\temp\\ispp35\\lection28.03\\lection28.03\\sensorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0337D4-4671-4249-A2EE-67730929997F}|Lection28.03\\Lection28.03.csproj|solutionrelative:lection28.03\\sensorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0337D4-4671-4249-A2EE-67730929997F}|Lection28.03\\Lection28.03.csproj|c:\\temp\\ispp35\\lection28.03\\lection28.03\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0337D4-4671-4249-A2EE-67730929997F}|Lection28.03\\Lection28.03.csproj|solutionrelative:lection28.03\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\Lection28.03\\Lection28.03\\SensorController.cs",
+              "RelativeDocumentMoniker": "Lection28.03\\SensorController.cs",
+              "ToolTip": "C:\\temp\\ispp35\\Lection28.03\\Lection28.03\\SensorController.cs",
+              "RelativeToolTip": "Lection28.03\\SensorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:47:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorView.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\Lection28.03\\Lection28.03\\SensorView.cs",
+              "RelativeDocumentMoniker": "Lection28.03\\SensorView.cs",
+              "ToolTip": "C:\\temp\\ispp35\\Lection28.03\\Lection28.03\\SensorView.cs",
+              "RelativeToolTip": "Lection28.03\\SensorView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:44:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\Lection28.03\\Lection28.03\\Sensor.cs",
+              "RelativeDocumentMoniker": "Lection28.03\\Sensor.cs",
+              "ToolTip": "C:\\temp\\ispp35\\Lection28.03\\Lection28.03\\Sensor.cs",
+              "RelativeToolTip": "Lection28.03\\Sensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:44:15.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\Lection28.03\\Lection28.03\\Program.cs",
+              "RelativeDocumentMoniker": "Lection28.03\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\Lection28.03\\Lection28.03\\Program.cs",
+              "RelativeToolTip": "Lection28.03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:42:32.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

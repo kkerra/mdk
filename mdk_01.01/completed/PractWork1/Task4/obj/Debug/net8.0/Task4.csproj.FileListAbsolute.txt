@@ -1,0 +1,14 @@
+C:\temp\ispp35\PractWork1\Task4\bin\Debug\net8.0\Task4.exe
+C:\temp\ispp35\PractWork1\Task4\bin\Debug\net8.0\Task4.deps.json
+C:\temp\ispp35\PractWork1\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+C:\temp\ispp35\PractWork1\Task4\bin\Debug\net8.0\Task4.dll
+C:\temp\ispp35\PractWork1\Task4\bin\Debug\net8.0\Task4.pdb
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\Task4.dll
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\refint\Task4.dll
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\Task4.pdb
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+C:\temp\ispp35\PractWork1\Task4\obj\Debug\net8.0\ref\Task4.dll

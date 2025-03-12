@@ -1,0 +1,7 @@
+C:\temp\ispp35\LabWorkLibrary\bin\Debug\LabWorkLibrary.dll
+C:\temp\ispp35\LabWorkLibrary\bin\Debug\LabWorkLibrary.pdb
+C:\temp\ispp35\LabWorkLibrary\obj\Debug\LabWorkLibrary.csproj.AssemblyReference.cache
+C:\temp\ispp35\LabWorkLibrary\obj\Debug\LabWorkLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\LabWorkLibrary\obj\Debug\LabWorkLibrary.dll
+C:\temp\ispp35\LabWorkLibrary\obj\Debug\LabWorkLibrary.pdb
+C:\temp\ispp35\LabWorkLibrary\bin\Debug\LabWorkLibrary.xml

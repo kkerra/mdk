@@ -1,0 +1,94 @@
+﻿<Window x:Class="LabWork34.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork34"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Menu VerticalAlignment="Top" >
+            <MenuItem Header="Файл">
+                <MenuItem x:Name="clearMenuItem" Header="Очистить" Click="ClearMenuItem_Click"/>
+                <MenuItem Header="Создать">
+                    <MenuItem.Icon>
+                        <Image Source="/1904677-add-addition-calculate-charge-create-new-plus_122527.ico"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Сохранить">
+                    <MenuItem.Icon>
+                        <Image Source="/1904659-arrow-backup-down-download-save-storage-transfer_122509.ico"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator/>
+                <MenuItem x:Name="exitMenutItem" Header="Выйти" Click="ExitMenutItem_Click">
+                    <MenuItem.Icon>
+                        <Image Source="/4115230-cancel-close-cross-delete_114048.ico"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Формат">
+                <MenuItem Header="Перенос по словам" IsCheckable="True"/>
+            </MenuItem>
+            <MenuItem Header="Вид">
+                <MenuItem Header="Масштаб">
+                    <MenuItem Header="Увеличить"/>
+                    <MenuItem Header="Уменьшить"/>
+                </MenuItem>
+                <MenuItem x:Name="statusBarVisibilityItem" Header="Строка состояния" IsCheckable="True" Click="StatusBarVisibilityItem_Click" />
+            </MenuItem>
+            <MenuItem Header="Справка">
+                <MenuItem Header="Посмотреть справку"/>
+                <MenuItem Header="Отправить отзыв"/>
+                <Separator/>
+                <MenuItem Header="О программе"/>
+            </MenuItem>
+        </Menu>
+
+        <TextBox TextWrapping="Wrap" AcceptsReturn="True" x:Name="inputTextBox" Grid.Row="2" TextChanged="InputTextBox_TextChanged"/>
+        <StatusBar x:Name="statusBar" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Grid.Row="3" Visibility="Hidden">
+            <StatusBarItem x:Name="charactersCountItem" Content="Количество символов:"/>
+            <StatusBarItem HorizontalAlignment="Right">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="-"/>
+                    <Slider Minimum="10" Maximum="500" Value="100" Width="200"/>
+                    <Label Content="+"/>
+                    <StatusBarItem x:Name="datetimeItem" Content="Дата и время:"/>
+                </StackPanel>
+            </StatusBarItem>
+        </StatusBar>
+        <ToolBar Grid.Row="1">
+            <ComboBox Width="50">
+                <ComboBoxItem Content="Маленький"/>
+                <ComboBoxItem Content="Средний"/>
+                <ComboBoxItem Content="Большой"/>
+            </ComboBox>
+            <Separator/>
+            <ToggleButton Content="По левому краю"/>
+            <ToggleButton Content="По центру"/>
+            <ToggleButton Content="По правому краю"/>
+            <ToggleButton Content="По ширине"/>
+            <Separator/>
+            <ToggleButton Content="Жирный" FontWeight="Bold"/>
+            <ToggleButton Content="Курсив" FontStyle="Italic"/>
+            <ToggleButton>
+                <TextBlock TextDecorations="Underline">Подчеркнутый</TextBlock>
+            </ToggleButton>
+                <Separator/>
+            <Button>
+                <Image Source="/text-format_117300.ico" Height="15" Width="20"/>
+                <Button.ToolTip>Цвет текста</Button.ToolTip>
+            </Button>
+            <Button>
+                <Image Source="/RGB_Circle_1-80_icon-icons.com_57282.ico" Height="15" Width="20" />
+                <Button.ToolTip>Цвет фона</Button.ToolTip>
+            </Button>
+        </ToolBar>
+    </Grid>
+</Window>

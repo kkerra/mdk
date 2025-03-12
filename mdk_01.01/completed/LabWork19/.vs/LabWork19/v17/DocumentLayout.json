@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork19\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task3\\redshapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|solutionrelative:task3\\redshapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task3\\greenshapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|solutionrelative:task3\\greenshapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|solutionrelative:task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|solutionrelative:task3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task2\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|solutionrelative:task2\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|solutionrelative:task2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task2\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|solutionrelative:task2\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217ACA7-64C9-4A09-9289-19F856E0DEDC}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217ACA7-64C9-4A09-9289-19F856E0DEDC}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217ACA7-64C9-4A09-9289-19F856E0DEDC}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task1\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217ACA7-64C9-4A09-9289-19F856E0DEDC}|Task1\\Task1.csproj|solutionrelative:task1\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|solutionrelative:task2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217ACA7-64C9-4A09-9289-19F856E0DEDC}|Task1\\Task1.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task1\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217ACA7-64C9-4A09-9289-19F856E0DEDC}|Task1\\Task1.csproj|solutionrelative:task1\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5428FF4D-B57A-420D-BCAF-C11B0E066FA4}|Task4\\Task4.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task4\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5428FF4D-B57A-420D-BCAF-C11B0E066FA4}|Task4\\Task4.csproj|solutionrelative:task4\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5428FF4D-B57A-420D-BCAF-C11B0E066FA4}|Task4\\Task4.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task4\\binaryobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5428FF4D-B57A-420D-BCAF-C11B0E066FA4}|Task4\\Task4.csproj|solutionrelative:task4\\binaryobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5428FF4D-B57A-420D-BCAF-C11B0E066FA4}|Task4\\Task4.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5428FF4D-B57A-420D-BCAF-C11B0E066FA4}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5428FF4D-B57A-420D-BCAF-C11B0E066FA4}|Task4\\Task4.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task4\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5428FF4D-B57A-420D-BCAF-C11B0E066FA4}|Task4\\Task4.csproj|solutionrelative:task4\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task3\\shapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|solutionrelative:task3\\shapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task3\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D86C17-1948-434A-BF24-156B0F08FEF5}|Task3\\Task3.csproj|solutionrelative:task3\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task2\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|solutionrelative:task2\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\task2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBA9FB2-B19C-404E-B5E6-8CFC4766945C}|Task2\\Task2.csproj|solutionrelative:task2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStrategy.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task1\\IStrategy.cs",
+              "RelativeDocumentMoniker": "Task1\\IStrategy.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task1\\IStrategy.cs",
+              "RelativeToolTip": "Task1\\IStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:11:44.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task1\\Context.cs",
+              "RelativeDocumentMoniker": "Task1\\Context.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task1\\Context.cs",
+              "RelativeToolTip": "Task1\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:11:36.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task4\\Subject.cs",
+              "RelativeDocumentMoniker": "Task4\\Subject.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task4\\Subject.cs",
+              "RelativeToolTip": "Task4\\Subject.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:18:48.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task3\\Rectangle.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\Rectangle.cs",
+              "RelativeToolTip": "Task3\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:14:04.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:14:02.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\IShape.cs",
+              "RelativeDocumentMoniker": "Task3\\IShape.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\IShape.cs",
+              "RelativeToolTip": "Task3\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:14:01.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Triangle.cs",
+              "RelativeDocumentMoniker": "Task2\\Triangle.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Triangle.cs",
+              "RelativeToolTip": "Task2\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:13:54.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task2\\Rectangle.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Rectangle.cs",
+              "RelativeToolTip": "Task2\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:12:19.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Square.cs",
+              "RelativeDocumentMoniker": "Task2\\Square.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Square.cs",
+              "RelativeToolTip": "Task2\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:13:53.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreenShapeDecorator.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\GreenShapeDecorator.cs",
+              "RelativeDocumentMoniker": "Task3\\GreenShapeDecorator.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\GreenShapeDecorator.cs",
+              "RelativeToolTip": "Task3\\GreenShapeDecorator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:13:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShapeFactory.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\ShapeFactory.cs",
+              "RelativeDocumentMoniker": "Task2\\ShapeFactory.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\ShapeFactory.cs",
+              "RelativeToolTip": "Task2\\ShapeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:12:20.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:12:16.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedShapeDecorator.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\RedShapeDecorator.cs",
+              "RelativeDocumentMoniker": "Task3\\RedShapeDecorator.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\RedShapeDecorator.cs",
+              "RelativeToolTip": "Task3\\RedShapeDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:14:06.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:11:47.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\Circle.cs",
+              "RelativeDocumentMoniker": "Task3\\Circle.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\Circle.cs",
+              "RelativeToolTip": "Task3\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:13:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShapeDecorator.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\ShapeDecorator.cs",
+              "RelativeDocumentMoniker": "Task3\\ShapeDecorator.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task3\\ShapeDecorator.cs",
+              "RelativeToolTip": "Task3\\ShapeDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:14:09.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task4\\IObserver.cs",
+              "RelativeDocumentMoniker": "Task4\\IObserver.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task4\\IObserver.cs",
+              "RelativeToolTip": "Task4\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:18:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:18:46.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BinaryObserver.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task4\\BinaryObserver.cs",
+              "RelativeDocumentMoniker": "Task4\\BinaryObserver.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task4\\BinaryObserver.cs",
+              "RelativeToolTip": "Task4\\BinaryObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:18:54.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\IShape.cs",
+              "RelativeDocumentMoniker": "Task2\\IShape.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\IShape.cs",
+              "RelativeToolTip": "Task2\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:12:14.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Circle.cs",
+              "RelativeDocumentMoniker": "Task2\\Circle.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork19\\Task2\\Circle.cs",
+              "RelativeToolTip": "Task2\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:12:10.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

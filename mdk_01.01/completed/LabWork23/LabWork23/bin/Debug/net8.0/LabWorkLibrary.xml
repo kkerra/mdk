@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LabWorkLibrary</name>
+    </assembly>
+    <members>
+        <member name="F:LabWorkLibrary.Role.Покупатель">
+            <summary>
+            Перечисление ролей
+            </summary>
+        </member>
+        <member name="F:LabWorkLibrary.Maths.binaryFactory">
+            <summary>
+            Константа 
+            </summary>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.GetSum(System.Double,System.Double)">
+            <summary>
+            Сумма двух чисел
+            </summary>
+            <param name="x">1 слагаемое</param>
+            <param name="y">2 слагаемое</param>
+            <returns>возвращает сумму</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.GetDifference(System.Double,System.Double)">
+            <summary>
+            Разность двух чисел
+            </summary>
+            <param name="x">Уменьшаемое</param>
+            <param name="y">Вычитаемое</param>
+            <returns>возвращает разность</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.GetMultiplication(System.Double,System.Double)">
+            <summary>
+            Произведение двух чисел
+            </summary>
+            <param name="x">1 множитель</param>
+            <param name="y">2 множитель</param>
+            <returns>возвращает произведение</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.GetDivision(System.Double,System.Double)">
+            <summary>
+            Деление двух чисел
+            </summary>
+            <param name="x">Делимое</param>
+            <param name="y">Делитель</param>
+            <returns>Возвращает частное двух чисел</returns>
+            <exception cref="T:System.DivideByZeroException">Деление на ноль</exception>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.GetArea(System.Double,System.Double)">
+            <summary>
+            Площадь прямоугольника
+            </summary>
+            <param name="x">Длина</param>
+            <param name="y">Ширина</param>
+            <returns>Возвращает площадь</returns>
+            <exception cref="T:System.ArgumentException">Некорректно введенные данные</exception>
+        </member>
+        <member name="P:LabWorkLibrary.User.Login">
+            <summary>
+            Открытое свойство логин
+            </summary>
+        </member>
+        <member name="P:LabWorkLibrary.User.Password">
+            <summary>
+            Открытое свойство пароль
+            </summary>
+        </member>
+        <member name="P:LabWorkLibrary.User.Role">
+            <summary>
+            Открытое свойство роль
+            </summary>
+        </member>
+    </members>
+</doc>

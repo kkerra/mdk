@@ -1,0 +1,56 @@
+C:\temp\ispp35\LabWork27\bin\Debug\net8.0-windows\LabWork27.exe
+C:\temp\ispp35\LabWork27\bin\Debug\net8.0-windows\LabWork27.deps.json
+C:\temp\ispp35\LabWork27\bin\Debug\net8.0-windows\LabWork27.runtimeconfig.json
+C:\temp\ispp35\LabWork27\bin\Debug\net8.0-windows\LabWork27.dll
+C:\temp\ispp35\LabWork27\bin\Debug\net8.0-windows\LabWork27.pdb
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\Pages\AuthorizationPage.g.cs
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\Pages\SettingsPage.g.cs
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27_MarkupCompile.cache
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27_MarkupCompile.lref
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\Pages\AuthorizationPage.baml
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\Pages\SettingsPage.baml
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27.g.resources
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27.AssemblyInfoInputs.cache
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27.AssemblyInfo.cs
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27.dll
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\refint\LabWork27.dll
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27.pdb
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\LabWork27.genruntimeconfig.cache
+C:\temp\ispp35\LabWork27\obj\Debug\net8.0-windows\ref\LabWork27.dll
+C:\temp\ispp35\МДК 01.01\LabWork27\bin\Debug\net8.0-windows\LabWork27.exe
+C:\temp\ispp35\МДК 01.01\LabWork27\bin\Debug\net8.0-windows\LabWork27.deps.json
+C:\temp\ispp35\МДК 01.01\LabWork27\bin\Debug\net8.0-windows\LabWork27.runtimeconfig.json
+C:\temp\ispp35\МДК 01.01\LabWork27\bin\Debug\net8.0-windows\LabWork27.dll
+C:\temp\ispp35\МДК 01.01\LabWork27\bin\Debug\net8.0-windows\LabWork27.pdb
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\Pages\AuthorizationPage.g.cs
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\Pages\SettingsPage.g.cs
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27_MarkupCompile.cache
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27_MarkupCompile.lref
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\Pages\AuthorizationPage.baml
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\Pages\SettingsPage.baml
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27.g.resources
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27.AssemblyInfoInputs.cache
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27.AssemblyInfo.cs
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27.dll
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\refint\LabWork27.dll
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27.pdb
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\LabWork27.genruntimeconfig.cache
+C:\temp\ispp35\МДК 01.01\LabWork27\obj\Debug\net8.0-windows\ref\LabWork27.dll

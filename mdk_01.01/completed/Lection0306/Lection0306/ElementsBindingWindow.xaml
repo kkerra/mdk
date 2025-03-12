@@ -1,0 +1,28 @@
+﻿<Window x:Class="Lection0306.ElementsBindingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lection0306"
+        mc:Ignorable="d"
+        Title="ElementsBindingWindow" Height="450" Width="800"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        >
+    <Window.Resources>
+        <local:User x:Key="User" Login="root" Password="12345"/>
+        <FontFamily x:Key="windowFont">Calibri</FontFamily>
+    </Window.Resources>
+    
+    <StackPanel>
+        <TextBox Text="askdka" FontFamily="{Binding Source={StaticResource windowFont}, Path=Source}"/>
+
+        <TextBox x:Name="colorTextBox"/>
+        <Rectangle Width="100" Height="100" Stroke="Black" StrokeThickness="1"
+                   Fill="{Binding Text, ElementName=colorTextBox}"/>
+        <TextBox x:Name="loginTextBox" Text="{Binding Login, Source={StaticResource User}}"/>
+        <TextBox x:Name="passwordTextBox" Text="{Binding Password, Source={StaticResource User}}"/>
+
+        <TextBox Text="{Binding SampleUser.Login}"/>
+        <TextBox Text="{Binding SampleUser.Login}"/>
+    </StackPanel>
+</Window>

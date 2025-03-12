@@ -1,0 +1,36 @@
+C:\temp\ispp35\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.exe
+C:\temp\ispp35\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.deps.json
+C:\temp\ispp35\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.runtimeconfig.json
+C:\temp\ispp35\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.dll
+C:\temp\ispp35\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.pdb
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.csproj.ResolveComReference.cache
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.Form1.resources
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.csproj.GenerateResource.cache
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.AssemblyInfoInputs.cache
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.AssemblyInfo.cs
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.dll
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\refint\Task3.dll
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.pdb
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.genruntimeconfig.cache
+C:\temp\ispp35\PractWork2\Task3\obj\Debug\net8.0-windows\ref\Task3.dll
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.exe
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.deps.json
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.runtimeconfig.json
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.dll
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\bin\Debug\net8.0-windows\Task3.pdb
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.csproj.ResolveComReference.cache
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.Form1.resources
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.csproj.GenerateResource.cache
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.AssemblyInfoInputs.cache
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.AssemblyInfo.cs
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.dll
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\refint\Task3.dll
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.pdb
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\Task3.genruntimeconfig.cache
+C:\temp\ispp35\МДК 01.01\PractWork2\Task3\obj\Debug\net8.0-windows\ref\Task3.dll

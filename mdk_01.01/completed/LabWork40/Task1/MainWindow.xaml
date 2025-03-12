@@ -1,0 +1,71 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Ellipse Height="100" Width="100"
+                     Fill="#FFFF5D5D" 
+                     HorizontalAlignment="Left" 
+                     StrokeThickness="5" 
+                     StrokeDashArray="4 2"
+                     Stroke="Gray" 
+                     StrokeDashCap="Round"/>
+            <Ellipse Height="100" Width="100" HorizontalAlignment="Left">
+                <Ellipse.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="Red" Offset="0.0"/>
+                        <GradientStop Color="Yellow" Offset="1.1"/>                    
+                    </LinearGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Ellipse Height="100" Width="100" HorizontalAlignment="Left">
+                <Ellipse.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="Red" Offset="0.0"/>
+                        <GradientStop Color="Yellow" Offset="1.1"/>
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Ellipse Height="100" Width="100" HorizontalAlignment="Left">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="galaxy.jpg"/>
+                </Ellipse.Fill>
+            </Ellipse>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center">
+            <Rectangle Width="100" 
+                       Height="100" 
+                       Fill="Aqua" 
+                       HorizontalAlignment="Left" 
+                       StrokeThickness="5"
+                       Stroke="Gray"/>
+            <Rectangle Width="100" Height="100" HorizontalAlignment="Left">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightCoral" Offset="0.0"/>
+                        <GradientStop Color="Yellow" Offset="1.1"/>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Width="100" Height="100" HorizontalAlignment="Left">
+                <Rectangle.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="LightSeaGreen" Offset="0.0"/>
+                        <GradientStop Color="LightCoral" Offset="1.1"/>
+                    </RadialGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Width="100" Height="100" HorizontalAlignment="Left" RadiusX="10" RadiusY="10">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="galaxy.jpg"/>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>        
+    </Grid>
+</Window>

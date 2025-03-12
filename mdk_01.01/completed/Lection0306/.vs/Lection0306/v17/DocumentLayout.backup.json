@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\lection0306\\lection0306\\elementsbindingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|solutionrelative:lection0306\\elementsbindingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\lection0306\\lection0306\\elementsbindingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|solutionrelative:lection0306\\elementsbindingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\lection0306\\lection0306\\userswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|solutionrelative:lection0306\\userswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\lection0306\\lection0306\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|solutionrelative:lection0306\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\lection0306\\lection0306\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|solutionrelative:lection0306\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\lection0306\\lection0306\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|solutionrelative:lection0306\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\lection0306\\lection0306\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30C885CD-3283-450D-95A2-6D95A3A48827}|Lection0306\\Lection0306.csproj|solutionrelative:lection0306\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElementsBindingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\ElementsBindingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lection0306\\ElementsBindingWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\ElementsBindingWindow.xaml.cs",
+              "RelativeToolTip": "Lection0306\\ElementsBindingWindow.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:37:18.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElementsBindingWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\ElementsBindingWindow.xaml",
+              "RelativeDocumentMoniker": "Lection0306\\ElementsBindingWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\ElementsBindingWindow.xaml",
+              "RelativeToolTip": "Lection0306\\ElementsBindingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T08:28:50.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\App.xaml",
+              "RelativeDocumentMoniker": "Lection0306\\App.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\App.xaml",
+              "RelativeToolTip": "Lection0306\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T08:18:14.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\UsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lection0306\\UsersWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\UsersWindow.xaml.cs",
+              "RelativeToolTip": "Lection0306\\UsersWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:04:50.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\UsersWindow.xaml",
+              "RelativeDocumentMoniker": "Lection0306\\UsersWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\UsersWindow.xaml",
+              "RelativeToolTip": "Lection0306\\UsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T08:04:09.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lection0306\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\MainWindow.xaml",
+              "RelativeToolTip": "Lection0306\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T07:40:48.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lection0306\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\Lection0306\\Lection0306\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lection0306\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:40:46.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork43\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2DC805-E64C-4B87-A093-382925C71FAE}|Task3\\Task3.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork43\\task3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2DC805-E64C-4B87-A093-382925C71FAE}|Task3\\Task3.csproj|solutionrelative:task3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2DC805-E64C-4B87-A093-382925C71FAE}|Task3\\Task3.csproj|c:\\temp\\ispp35\\\u043C\u0434\u043A 01.01\\labwork43\\task3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E2DC805-E64C-4B87-A093-382925C71FAE}|Task3\\Task3.csproj|solutionrelative:task3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork43\\Task3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task3\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork43\\Task3\\MainWindow.xaml",
+              "RelativeToolTip": "Task3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T06:33:52.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork43\\Task3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u041C\u0414\u041A 01.01\\LabWork43\\Task3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:33:52.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
