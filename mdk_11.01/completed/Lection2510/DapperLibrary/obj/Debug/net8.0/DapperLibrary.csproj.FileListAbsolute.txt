@@ -1,0 +1,11 @@
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\bin\Debug\net8.0\DapperLibrary.deps.json
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\bin\Debug\net8.0\DapperLibrary.dll
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\bin\Debug\net8.0\DapperLibrary.pdb
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\obj\Debug\net8.0\DapperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\obj\Debug\net8.0\DapperLibrary.AssemblyInfoInputs.cache
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\obj\Debug\net8.0\DapperLibrary.AssemblyInfo.cs
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\obj\Debug\net8.0\DapperLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\obj\Debug\net8.0\DapperLibrary.dll
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\obj\Debug\net8.0\refint\DapperLibrary.dll
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\obj\Debug\net8.0\DapperLibrary.pdb
+C:\temp\ispp35\ТРиЗБД\Lection2510\DapperLibrary\obj\Debug\net8.0\ref\DapperLibrary.dll

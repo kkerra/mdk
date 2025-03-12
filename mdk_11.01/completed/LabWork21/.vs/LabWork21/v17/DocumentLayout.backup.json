@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC5B07-2A80-4EB4-B5F1-3E66CDF666D6}|Task2\\Task2.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork21\\task2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC5B07-2A80-4EB4-B5F1-3E66CDF666D6}|Task2\\Task2.csproj|solutionrelative:task2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC5B07-2A80-4EB4-B5F1-3E66CDF666D6}|Task2\\Task2.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork21\\task2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10BC5B07-2A80-4EB4-B5F1-3E66CDF666D6}|Task2\\Task2.csproj|solutionrelative:task2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC5B07-2A80-4EB4-B5F1-3E66CDF666D6}|Task2\\Task2.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork21\\task2\\services\\screenshotsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC5B07-2A80-4EB4-B5F1-3E66CDF666D6}|Task2\\Task2.csproj|solutionrelative:task2\\services\\screenshotsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork21\\labwork21\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|solutionrelative:labwork21\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork21\\labwork21\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|solutionrelative:labwork21\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork21\\labwork21\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|solutionrelative:labwork21\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork21\\labwork21\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|solutionrelative:labwork21\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork21\\labwork21\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46AF3D4A-EFE9-4861-8422-4B165C531462}|LabWork21\\Task1.csproj|solutionrelative:labwork21\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\App.xaml",
+              "RelativeDocumentMoniker": "LabWork21\\App.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\App.xaml",
+              "RelativeToolTip": "LabWork21\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T08:18:22.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScreenshotsService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\Task2\\Services\\ScreenshotsService.cs",
+              "RelativeDocumentMoniker": "Task2\\Services\\ScreenshotsService.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\Task2\\Services\\ScreenshotsService.cs",
+              "RelativeToolTip": "Task2\\Services\\ScreenshotsService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:38:39.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\Task2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task2\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\Task2\\MainWindow.xaml",
+              "RelativeToolTip": "Task2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:26:52.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\Task2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\Task2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:26:51.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "LabWork21\\Models\\Game.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\Models\\Game.cs",
+              "RelativeToolTip": "LabWork21\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:55:23.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamesService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\Services\\GamesService.cs",
+              "RelativeDocumentMoniker": "LabWork21\\Services\\GamesService.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\Services\\GamesService.cs",
+              "RelativeToolTip": "LabWork21\\Services\\GamesService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:55:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork21\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork21\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T05:40:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork21\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork21\\LabWork21\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork21\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:40:25.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

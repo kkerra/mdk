@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{112756BB-F189-4969-AF96-22AC2C1E8F86}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork17\\databaselibrary\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112756BB-F189-4969-AF96-22AC2C1E8F86}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D04789C-C4DE-46B1-A33A-A373AC128864}|LabWork17\\LabWork17.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork17\\labwork17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D04789C-C4DE-46B1-A33A-A373AC128864}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112756BB-F189-4969-AF96-22AC2C1E8F86}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork17\\databaselibrary\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112756BB-F189-4969-AF96-22AC2C1E8F86}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\DatabaseLibrary\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Services\\TicketService.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\DatabaseLibrary\\Services\\TicketService.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:35:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\LabWork17\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork17\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\LabWork17\\Program.cs",
+              "RelativeToolTip": "LabWork17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:28:42.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\DatabaseLibrary\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Services\\GenreService.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\DatabaseLibrary\\Services\\GenreService.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Services\\GenreService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:59:09.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

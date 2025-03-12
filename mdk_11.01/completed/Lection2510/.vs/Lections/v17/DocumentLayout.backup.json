@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1371490-D8CA-45EE-97D3-B1CE58236BD2}|Lection1203Api\\Lection1203Api.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\lection2510\\lection1203api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1371490-D8CA-45EE-97D3-B1CE58236BD2}|Lection1203Api\\Lection1203Api.csproj|solutionrelative:lection1203api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\lection2510\\lection1204apicontrollers\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|solutionrelative:lection1204apicontrollers\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\lection2510\\lection1204apicontrollers\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|solutionrelative:lection1204apicontrollers\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\lection2510\\lection1204apicontrollers\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|solutionrelative:lection1204apicontrollers\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\lection2510\\lection1204apicontrollers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|solutionrelative:lection1204apicontrollers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\lection2510\\lection1204apicontrollers\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|solutionrelative:lection1204apicontrollers\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\lection2510\\lection1204apicontrollers\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|solutionrelative:lection1204apicontrollers\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\lection2510\\lection1204apicontrollers\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00DDC1-204C-454E-9747-4F8DFE0E4766}|Lection1204ApiControllers\\Lection1204ApiControllers.csproj|solutionrelative:lection1204apicontrollers\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1203Api\\Program.cs",
+              "RelativeDocumentMoniker": "Lection1203Api\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1203Api\\Program.cs",
+              "RelativeToolTip": "Lection1203Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:51:50.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Lection1204ApiControllers\\WeatherForecast.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\WeatherForecast.cs",
+              "RelativeToolTip": "Lection1204ApiControllers\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:35:22.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Lection1204ApiControllers\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Lection1204ApiControllers\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:35:14.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Lection1204ApiControllers\\Models\\Game.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Models\\Game.cs",
+              "RelativeToolTip": "Lection1204ApiControllers\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:47:57.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lection1204ApiControllers\\Models\\Category.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Models\\Category.cs",
+              "RelativeToolTip": "Lection1204ApiControllers\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:47:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Lection1204ApiControllers\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Lection1204ApiControllers\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:38:46.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Data\\GameContext.cs",
+              "RelativeDocumentMoniker": "Lection1204ApiControllers\\Data\\GameContext.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Data\\GameContext.cs",
+              "RelativeToolTip": "Lection1204ApiControllers\\Data\\GameContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:38:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Program.cs",
+              "RelativeDocumentMoniker": "Lection1204ApiControllers\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\Lection2510\\Lection1204ApiControllers\\Program.cs",
+              "RelativeToolTip": "Lection1204ApiControllers\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:38:20.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

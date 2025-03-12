@@ -1,0 +1,37 @@
+﻿<Visitors>
+  <Visitor>
+    <VisitorId>1</VisitorId>
+    <Phone>123456789 </Phone>
+    <Name>ааа</Name>
+    <Birthday>2010-05-13T00:00:00</Birthday>
+    <Email>абвабв@mail.ru</Email>
+  </Visitor>
+  <Visitor>
+    <VisitorId>2</VisitorId>
+    <Phone>987654321 </Phone>
+    <Name>ббб</Name>
+    <Birthday>2000-10-07T00:00:00</Birthday>
+    <Email>assdasda</Email>
+  </Visitor>
+  <Visitor>
+    <VisitorId>3</VisitorId>
+    <Phone>1111111   </Phone>
+    <Name>ddd</Name>
+    <Birthday>2000-11-11T00:00:00</Birthday>
+    <Email>bbbbbbbbbbb</Email>
+  </Visitor>
+  <Visitor>
+    <VisitorId>5</VisitorId>
+    <Phone>77777777  </Phone>
+    <Name>aaaaaaa</Name>
+    <Birthday>2000-01-14T00:00:00</Birthday>
+    <Email>иииииииииииииииииии</Email>
+  </Visitor>
+  <Visitor>
+    <VisitorId>6</VisitorId>
+    <Phone>12321312  </Phone>
+    <Name>ASDASDA</Name>
+    <Birthday>1999-04-15T00:00:00</Birthday>
+    <Email>asdasda</Email>
+  </Visitor>
+</Visitors>

@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664A5745-988C-441F-BB6F-9A8AC60F428E}|DomainLayer\\DomainLayer.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\practwork2\\domainlayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A5745-988C-441F-BB6F-9A8AC60F428E}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B6B81C-30FB-4C47-9D58-F3F1B026B113}|PractWork2\\PractWork2.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\practwork2\\practwork2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B6B81C-30FB-4C47-9D58-F3F1B026B113}|PractWork2\\PractWork2.csproj|solutionrelative:practwork2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B6B81C-30FB-4C47-9D58-F3F1B026B113}|PractWork2\\PractWork2.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\practwork2\\practwork2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3B6B81C-30FB-4C47-9D58-F3F1B026B113}|PractWork2\\PractWork2.csproj|solutionrelative:practwork2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A5745-988C-441F-BB6F-9A8AC60F428E}|DomainLayer\\DomainLayer.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\practwork2\\domainlayer\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A5745-988C-441F-BB6F-9A8AC60F428E}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\DomainLayer\\MovieService.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\MovieService.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\DomainLayer\\MovieService.cs",
+              "RelativeToolTip": "DomainLayer\\MovieService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:45:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\DomainLayer\\Movie.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Movie.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\DomainLayer\\Movie.cs",
+              "RelativeToolTip": "DomainLayer\\Movie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:45:13.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\PractWork2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PractWork2\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\PractWork2\\MainWindow.xaml",
+              "RelativeToolTip": "PractWork2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T08:44:52.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\PractWork2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PractWork2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\PractWork2\\PractWork2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PractWork2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:44:52.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

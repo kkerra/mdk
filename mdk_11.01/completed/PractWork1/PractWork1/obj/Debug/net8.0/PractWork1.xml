@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PractWork1</name>
+    </assembly>
+    <members>
+        <member name="M:PractWork1.Controllers.MoviesController.GetMovies">
+            <summary>
+            Получить все фильмы
+            </summary>
+            <returns>Список фильмов</returns>
+            <response code="200">Фильмы успешно получены</response>
+            <response code="404">Фильмы не найдены</response>
+        </member>
+        <member name="M:PractWork1.Controllers.MoviesController.GetSortedMovies(System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            Фильтрация фильмов
+            </summary>
+            <param name="title">название фильма</param>
+            <param name="sortBy">столбец сортировки</param>
+            <param name="page">страница</param>
+            <param name="pageSize">размер страницы</param>
+            <returns>Отфильтрованный список фильмов</returns>
+            <response code="200">Фильмы успешно получены</response>
+            <response code="404">Фильмы не найдены</response>
+        </member>
+        <member name="M:PractWork1.Controllers.MoviesController.GetMovie(System.Int32)">
+            <summary>
+            Информация о фильме по id
+            </summary>
+            <param name="id">Номер фильма</param>
+            <returns>Данные о фильме по id</returns>
+            <response code="200">Фильмы успешно получены</response>
+            <response code="404">Фильмы не найдены</response>
+        </member>
+        <member name="M:PractWork1.Controllers.MoviesController.PutMovie(System.Int32,PractWork1.Models.Movie)">
+            <summary>
+            обновление фильма по номеру
+            </summary>
+            <param name="id">номер фильма </param>
+            <param name="movie">информция о фильме</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

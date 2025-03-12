@@ -1,0 +1,14 @@
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\bin\Debug\net8.0\DatabaseLibrary.deps.json
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\bin\Debug\net8.0\DatabaseLibrary.runtimeconfig.json
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\bin\Debug\net8.0\DatabaseLibrary.dll
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\bin\Debug\net8.0\DatabaseLibrary.pdb
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.csproj.AssemblyReference.cache
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.AssemblyInfoInputs.cache
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.AssemblyInfo.cs
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.dll
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\refint\DatabaseLibrary.dll
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.pdb
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.genruntimeconfig.cache
+C:\temp\ispp35\ТРиЗБД\LabWork17\DatabaseLibrary\obj\Debug\net8.0\ref\DatabaseLibrary.dll

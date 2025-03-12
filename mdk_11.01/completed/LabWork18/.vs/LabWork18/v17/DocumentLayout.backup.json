@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F14C72A-6282-4227-8529-F7D89A843A98}|..\\LabWork17\\DatabaseLibrary\\DatabaseLibrary.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork17\\databaselibrary\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63312812-C572-4555-B2A1-D44DBCBCD8D3}|LabWork18\\LabWork18.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork18\\labwork18\\moviewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63312812-C572-4555-B2A1-D44DBCBCD8D3}|LabWork18\\LabWork18.csproj|solutionrelative:labwork18\\moviewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63312812-C572-4555-B2A1-D44DBCBCD8D3}|LabWork18\\LabWork18.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork18\\labwork18\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63312812-C572-4555-B2A1-D44DBCBCD8D3}|LabWork18\\LabWork18.csproj|solutionrelative:labwork18\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63312812-C572-4555-B2A1-D44DBCBCD8D3}|LabWork18\\LabWork18.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork18\\labwork18\\moviewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63312812-C572-4555-B2A1-D44DBCBCD8D3}|LabWork18\\LabWork18.csproj|solutionrelative:labwork18\\moviewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63312812-C572-4555-B2A1-D44DBCBCD8D3}|LabWork18\\LabWork18.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork18\\labwork18\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63312812-C572-4555-B2A1-D44DBCBCD8D3}|LabWork18\\LabWork18.csproj|solutionrelative:labwork18\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F14C72A-6282-4227-8529-F7D89A843A98}|..\\LabWork17\\DatabaseLibrary\\DatabaseLibrary.csproj|c:\\temp\\ispp35\\\u0442\u0440\u0438\u0437\u0431\u0434\\labwork17\\databaselibrary\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\DatabaseLibrary\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "..\\LabWork17\\DatabaseLibrary\\Services\\GenreService.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\DatabaseLibrary\\Services\\GenreService.cs",
+              "RelativeToolTip": "..\\LabWork17\\DatabaseLibrary\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:00:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\DatabaseLibrary\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "..\\LabWork17\\DatabaseLibrary\\Services\\MovieService.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork17\\DatabaseLibrary\\Services\\MovieService.cs",
+              "RelativeToolTip": "..\\LabWork17\\DatabaseLibrary\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:09:35.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\LabWork18\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork18\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\LabWork18\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork18\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T09:05:52.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\LabWork18\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork18\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\LabWork18\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork18\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:56:11.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\LabWork18\\MovieWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork18\\MovieWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\LabWork18\\MovieWindow.xaml.cs",
+              "RelativeToolTip": "LabWork18\\MovieWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:34:40.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\LabWork18\\MovieWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork18\\MovieWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp35\\\u0422\u0420\u0438\u0417\u0411\u0414\\LabWork18\\LabWork18\\MovieWindow.xaml",
+              "RelativeToolTip": "LabWork18\\MovieWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T08:31:03.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

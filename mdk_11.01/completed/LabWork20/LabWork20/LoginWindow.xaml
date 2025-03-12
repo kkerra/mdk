@@ -1,0 +1,17 @@
+﻿<Window x:Class="LabWork20.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork20"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="250" Width="250">
+    <StackPanel>
+        <Label Content="Введите логин"/>
+        <TextBox x:Name="LoginTextBox"/>
+        <Label Content="Введите пароль"/>
+        <TextBox x:Name="PasswordTextBox"/>
+        <Button x:Name="OkButton" Content="ОК" Click="OkButton_ClickAsync"/>
+        <Button x:Name="CancelButton" Content="Отмена" Click="CancelButton_Click"/>
+    </StackPanel>
+</Window>

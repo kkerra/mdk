@@ -1,0 +1,12 @@
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\bin\Debug\net8.0\DBLibrary.deps.json
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\bin\Debug\net8.0\DBLibrary.dll
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\bin\Debug\net8.0\DBLibrary.pdb
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.csproj.AssemblyReference.cache
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.AssemblyInfoInputs.cache
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.AssemblyInfo.cs
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.dll
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\refint\DBLibrary.dll
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.pdb
+C:\temp\ispp35\ТРиЗБД\LabWork14\DBLibrary\obj\Debug\net8.0\ref\DBLibrary.dll

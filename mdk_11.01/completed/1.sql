@@ -1,0 +1,53 @@
+CREATE TABLE [Ticket](
+	[TicketId] [int] IDENTITY(1,1) NOT NULL,
+	[SessionId] [int] NOT NULL,
+	[VisitorId] [int] NOT NULL,
+	[Place] [tinyint] NOT NULL,
+	[Row] [tinyint] NOT NULL,
+ CONSTRAINT [PK_Ticket] PRIMARY KEY CLUSTERED 
+(
+	[TicketId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[Ticket]  WITH CHECK ADD  CONSTRAINT [FK_Ticket_Session] FOREIGN KEY([SessionId])
+REFERENCES [dbo].[Session] ([SessionId])
+ON UPDATE CASCADE
+GO
+
+ALTER TABLE [dbo].[Ticket] CHECK CONSTRAINT [FK_Ticket_Session]
+GO
+
+ALTER TABLE [dbo].[Ticket]  WITH CHECK ADD  CONSTRAINT [FK_Ticket_Visitor] FOREIGN KEY([VisitorId])
+REFERENCES [dbo].[Visitor] ([VisitorId])
+ON UPDATE CASCADE
+GO
+
+ALTER TABLE [dbo].[Ticket] CHECK CONSTRAINT [FK_Ticket_Visitor]
+GO
+
+ALTER TABLE [dbo].[Ticket]  WITH CHECK ADD  CONSTRAINT [CK_Place] CHECK  (([Place]>=(1)))
+GO
+
+ALTER TABLE [dbo].[Ticket] CHECK CONSTRAINT [CK_Place]
+GO
+
+ALTER TABLE [dbo].[Ticket]  WITH CHECK ADD  CONSTRAINT [CK_Row] CHECK  (([Row]>=(1)))
+GO
+
+ALTER TABLE [dbo].[Ticket] CHECK CONSTRAINT [CK_Row]
+GO
+
+CREATE TABLE [dbo].[Visitor](
+	[VisitorId] [int] IDENTITY(1,1) NOT NULL,
+	[Phone] [char](10) NOT NULL,
+	[Name] [nvarchar](50) NULL,
+	[Birthday] [datetime2](7) NULL,
+	[Email] [varchar](150) NULL,
+ CONSTRAINT [PK_Visitor] PRIMARY KEY CLUSTERED 
+(
+	[VisitorId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
