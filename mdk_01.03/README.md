@@ -1,3 +1,5 @@
 ## Разработка мобильных приложений
 
 Садовский Роман Викторович
+
+https://onedrive.live.com/personal/ccdf376dd645e7d5/_layouts/15/Doc.aspx?sourcedoc=%7B5e904a22-154f-472a-99d0-3304d82dd07a%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jY2RmMzc2ZGQ2NDVlN2Q1L0VTSktrRjVQRlNwSG1kQXpCTmd0MEhvQjNDZC1CTW9kcFcxejZ4cjlyUEV3RWc_ZT1HYldYV1c&slrid=22318aa1-d0b0-0000-8a9b-6bffd12f05ac&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jY2RmMzc2ZGQ2NDVlN2Q1L0VTSktrRjVQRlNwSG1kQXpCTmd0MEhvQjNDZC1CTW9kcFcxejZ4cjlyUEV3RWc_cnRpbWU9QUtVMl9XRmkzVWc&CID=6a9496ab-9d0d-4bcd-986b-b4c40830cab3&_SRM=0:G:113
