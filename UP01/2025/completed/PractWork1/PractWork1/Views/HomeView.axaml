@@ -1,0 +1,30 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:PractWork1.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="PractWork1.Views.HomeView"
+             x:DataType="vm:HomeViewModel">
+  <Design.DataContext>
+    <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+    <vm:HomeViewModel />
+  </Design.DataContext>
+	<UserControl.DataContext>
+		<vm:HomeViewModel/>
+	</UserControl.DataContext>
+	<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="{Binding Message}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+		<TextBox Text="{Binding Input}"/>
+		<Button Content="Кнопка" Command="{Binding CreateMessageCommand}"/>
+		<CheckBox Content="CheckBox" IsChecked="{Binding IsChecked}"/>
+		<RadioButton Content="{Binding OptionSelected}" IsChecked="{Binding OptionSelected}"/>
+		<RadioButton Content="{Binding !OptionSelected}" IsChecked="{Binding !OptionSelected}"/>
+		<CalendarDatePicker SelectedDate="{Binding CurrentDateTime}"/>
+		<ComboBox SelectedItem="{Binding SelectedComboBox}">
+			<ComboBoxItem Content="1"/>
+			<ComboBoxItem Content="2"/>
+		</ComboBox>
+	</StackPanel>
+</UserControl>

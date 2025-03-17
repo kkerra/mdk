@@ -1,0 +1,38 @@
+﻿<Window x:Class="LabWork12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ScrollViewer >
+            <StackPanel>
+            <Label Content="Введите название файлов"/>
+            <TextBox x:Name="FileTextBox"/>
+            <Button x:Name="ChooseFolderButton" Content="Выбрать каталог" Click="ChooseFolderButton_Click"/>
+            <Label x:Name="FolderLabel"/>
+            <StackPanel>
+                <RadioButton x:Name="SearchCurrentFolderRadioButton" Content="Только в текущей папке"/>
+                <RadioButton x:Name="SearchSubfoldersRadioButton" Content="Включить вложенные папки"/>
+            </StackPanel>
+                <StackPanel>
+                    <CheckBox x:Name="UseFileSizeCheckBox" Content="Указать размер файлов" Checked="UseFileSizeCheckBox_Checked" Unchecked="UseFileSizeCheckBox_Unchecked"/>
+                    <Label Content="Минимальный размер(в кб)"/>
+                    <TextBox x:Name="MinSizeTextBox" IsEnabled="False"/>
+                    <Label Content="Максимальный размер(в кб)"/>
+                    <TextBox x:Name="MaxSizeTextBox" IsEnabled="False"/>
+                </StackPanel>
+                <StackPanel>
+                    <CheckBox x:Name="UseCreationDateCheckBox" Content="Учесть дату создания" Checked="UseCreationDateCheckBox_Checked" Unchecked="UseCreationDateCheckBox_Unchecked"/>
+                    <Label Content="Самая ранняя дата:"/>
+                    <DatePicker x:Name="CreationDatePicker" IsEnabled="False"/>
+                </StackPanel>
+                <Button x:Name="FindButton" Content="Найти" Click="FindButton_Click"/>
+                <ListBox x:Name="FilesListBox"/>
+        </StackPanel> 
+        </ScrollViewer>
+               
+    </Grid>
+</Window>

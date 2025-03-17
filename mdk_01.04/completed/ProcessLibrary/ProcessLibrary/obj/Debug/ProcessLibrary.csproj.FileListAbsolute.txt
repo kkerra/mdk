@@ -1,0 +1,7 @@
+C:\Users\221\source\repos\ProcessLibrary\ProcessLibrary\bin\Debug\ProcessLibrary.dll
+C:\Users\221\source\repos\ProcessLibrary\ProcessLibrary\bin\Debug\ProcessLibrary.pdb
+C:\Users\221\source\repos\ProcessLibrary\ProcessLibrary\obj\Debug\ProcessLibrary.csproj.AssemblyReference.cache
+C:\Users\221\source\repos\ProcessLibrary\ProcessLibrary\obj\Debug\ProcessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\221\source\repos\ProcessLibrary\ProcessLibrary\obj\Debug\ProcessLibrary.dll
+C:\Users\221\source\repos\ProcessLibrary\ProcessLibrary\obj\Debug\ProcessLibrary.pdb
+C:\Users\221\source\repos\ProcessLibrary\ProcessLibrary\bin\Debug\ProcessLibrary.xml

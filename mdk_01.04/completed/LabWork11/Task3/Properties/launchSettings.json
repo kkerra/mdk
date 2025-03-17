@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task3": {
+      "commandName": "Project",
+      "commandLineArgs": "-file C:\\Temp\\ispp35\\123.txt\r\n-text 123"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+			 xmlns:vm="clr-namespace:PractWork1.ViewModels"
+             x:Class="PractWork1.Views.RegistrationView"
+			 x:DataType="vm:RegistrationViewModel">
+	<Design.DataContext>
+		<vm:RegistrationViewModel/>
+	</Design.DataContext>
+	<UserControl.DataContext>
+		<vm:RegistrationViewModel/>
+	</UserControl.DataContext>
+	<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+		<TextBlock Text="Логин:"/>
+		<TextBox Text="{Binding Login}"/>
+		<TextBlock Text="Пароль"/>
+		<TextBox Text="{Binding Password}"/>
+		<TextBlock Text="Подтверждение пароля"/>
+		<TextBox Text="{Binding ConfirmPassword}"/>
+		<TextBlock Text="Email"/>		
+		<TextBox Text="{Binding Email}"/>
+		<TextBlock Text="Номер телефона"/>
+		<TextBox Text="{Binding Phone}"/>
+	</StackPanel>
+</UserControl>

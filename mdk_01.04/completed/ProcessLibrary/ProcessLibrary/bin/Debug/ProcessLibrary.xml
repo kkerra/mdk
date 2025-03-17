@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProcessLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:ProcessLibrary.TaskList.ListAllProccesses">
+            <summary>
+            Отображает все запущенные процессы
+            </summary>
+        </member>
+        <member name="M:ProcessLibrary.TaskList.FindProccessWithMaxId">
+            <summary>
+            Находит процесс с наибольшим id
+            </summary>
+        </member>
+        <member name="M:ProcessLibrary.TaskList.GetProcessInfoByName(System.String)">
+            <summary>
+            Возвращает информацию о процессе по имени
+            </summary>
+            <param name="name">название процесса</param>
+        </member>
+        <member name="M:ProcessLibrary.TaskList.StartNewProcess(System.String)">
+            <summary>
+            запускает новый процесс
+            </summary>
+            <param name="filePath">путь к процессу</param>
+        </member>
+    </members>
+</doc>

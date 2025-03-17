@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46ACFBBB-25EB-4A5B-976B-A6B47596A5DF}|Task3\\Task3.vcxproj|C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task3\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46ACFBBB-25EB-4A5B-976B-A6B47596A5DF}|Task3\\Task3.vcxproj|solutionrelative:Task3\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EC10AD-8147-49C7-B214-CAF1A1838F04}|Task2\\Task2.vcxproj|C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task2\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19EC10AD-8147-49C7-B214-CAF1A1838F04}|Task2\\Task2.vcxproj|solutionrelative:Task2\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248B1E01-C0C4-4910-AE95-C56CE8625A43}|Task1\\Task1.vcxproj|C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task1\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{248B1E01-C0C4-4910-AE95-C56CE8625A43}|Task1\\Task1.vcxproj|solutionrelative:Task1\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A00565A-EFD9-4DFC-8CDA-3080AC57386A}|Task4\\Task4.vcxproj|C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task4\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A00565A-EFD9-4DFC-8CDA-3080AC57386A}|Task4\\Task4.vcxproj|solutionrelative:Task4\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F61B6EA-D21F-470A-8C58-6AEB2ACCFD8D}|Task5\\Task5.vcxproj|C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task5\\Task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F61B6EA-D21F-470A-8C58-6AEB2ACCFD8D}|Task5\\Task5.vcxproj|solutionrelative:Task5\\Task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task5.cpp",
+              "DocumentMoniker": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task5\\Task5.cpp",
+              "RelativeDocumentMoniker": "Task5\\Task5.cpp",
+              "ToolTip": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task5\\Task5.cpp",
+              "RelativeToolTip": "Task5\\Task5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T07:37:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task4.cpp",
+              "DocumentMoniker": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task4\\Task4.cpp",
+              "RelativeDocumentMoniker": "Task4\\Task4.cpp",
+              "ToolTip": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task4\\Task4.cpp",
+              "RelativeToolTip": "Task4\\Task4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T07:27:40.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task3.cpp",
+              "DocumentMoniker": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task3\\Task3.cpp",
+              "RelativeDocumentMoniker": "Task3\\Task3.cpp",
+              "ToolTip": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task3\\Task3.cpp",
+              "RelativeToolTip": "Task3\\Task3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T07:19:18.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task2.cpp",
+              "DocumentMoniker": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task2\\Task2.cpp",
+              "RelativeDocumentMoniker": "Task2\\Task2.cpp",
+              "ToolTip": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task2\\Task2.cpp",
+              "RelativeToolTip": "Task2\\Task2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T07:06:40.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task1.cpp",
+              "DocumentMoniker": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task1\\Task1.cpp",
+              "RelativeDocumentMoniker": "Task1\\Task1.cpp",
+              "ToolTip": "C:\\Temp\\ispp35\\\u0421\u041F\\LabWork1\\Task1\\Task1.cpp",
+              "RelativeToolTip": "Task1\\Task1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T06:58:10.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

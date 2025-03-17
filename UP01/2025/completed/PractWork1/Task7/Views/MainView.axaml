@@ -1,0 +1,30 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:Task7.ViewModels"
+			 xmlns:wpf="clr-namespace:Material.Styles.Assists;assembly=Material.Styles"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Task7.Views.MainView"
+             x:DataType="vm:MainViewModel">
+  <Design.DataContext>
+    <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+    <vm:MainViewModel />
+  </Design.DataContext>
+
+	<StackPanel>
+		<TextBlock Text="123"/>
+	    <TextBox Text="123" UseFloatingWatermark="True" Classes="outline" Theme="{StaticResource OutlineTextBox}"
+                                 wpf:TextFieldAssist.Label="Password"/>
+		<Button Content="abc" Classes="outline"/>
+		<CheckBox Content="123" />
+		<RadioButton/>
+		<RadioButton/>
+		<DatePicker Classes="outline"/>
+		<ComboBox Classes="outline" wpf:ComboBoxAssist.Label="ComboBox" Theme="{StaticResource MaterialOutlineComboBox}">
+			<ComboBoxItem Content="123"/>
+			<ComboBoxItem Content="12"/>
+		</ComboBox>
+	</StackPanel>
+</UserControl>

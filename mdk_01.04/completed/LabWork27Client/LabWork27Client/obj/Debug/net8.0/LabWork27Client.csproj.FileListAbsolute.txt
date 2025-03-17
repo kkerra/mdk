@@ -1,0 +1,14 @@
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\bin\Debug\net8.0\LabWork27Client.exe
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\bin\Debug\net8.0\LabWork27Client.deps.json
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\bin\Debug\net8.0\LabWork27Client.runtimeconfig.json
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\bin\Debug\net8.0\LabWork27Client.dll
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\bin\Debug\net8.0\LabWork27Client.pdb
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\LabWork27Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\LabWork27Client.AssemblyInfoInputs.cache
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\LabWork27Client.AssemblyInfo.cs
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\LabWork27Client.csproj.CoreCompileInputs.cache
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\LabWork27Client.dll
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\refint\LabWork27Client.dll
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\LabWork27Client.pdb
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\LabWork27Client.genruntimeconfig.cache
+C:\Temp\ispp35\СП\LabWork27Client\LabWork27Client\obj\Debug\net8.0\ref\LabWork27Client.dll

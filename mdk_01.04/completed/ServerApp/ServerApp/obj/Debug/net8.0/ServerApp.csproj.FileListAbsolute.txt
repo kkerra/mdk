@@ -1,0 +1,14 @@
+C:\Temp\ispp35\СП\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.exe
+C:\Temp\ispp35\СП\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+C:\Temp\ispp35\СП\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+C:\Temp\ispp35\СП\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.dll
+C:\Temp\ispp35\СП\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.dll
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+C:\Temp\ispp35\СП\ServerApp\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll

@@ -1,0 +1,29 @@
+﻿<Window x:Class="LabWork21.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork21"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" >
+            <Label Content="Файл:" Width="50"/>
+            <TextBox x:Name="filePathTextBox" Width="400"/>
+            <Button x:Name="browseButton" Content="..." Click="BrowseButton_Click" Width="30" Margin="5"/>
+        </StackPanel>
+
+        <Button x:Name="calculateButton" Content="Вычислить" Grid.Row="1" Click="CalculateButton_Click" Width="100"/>
+
+        <Label x:Name="MD5HashLabel" Content="MD5: " Grid.Row="2"/>
+        <Label x:Name="SHA256HashLabel" Content="SHA256: " Grid.Row="3"/>
+    </Grid>
+</Window>

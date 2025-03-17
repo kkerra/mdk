@@ -1,0 +1,25 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:PractWork1.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:views="clr-namespace:PractWork1.Views"
+		
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="PractWork1.Views.MainWindow"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="PractWork1">
+	<Design.DataContext>
+        <vm:MainViewModel/>
+	</Design.DataContext>
+	<StackPanel>
+		<ContentControl Content="{Binding CurrentPage}"/>
+	
+		<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+			<Button Content="Home" Command="{Binding GoHomePageCommand}"/>
+			<Button Content="Registration" Command="{Binding GoRegistrationPageCommand}"/>
+			<Button Content="Users" Command="{Binding GoUserListPageCommand}"/>
+		</StackPanel>
+	</StackPanel>
+	
+</Window>

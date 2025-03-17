@@ -1,0 +1,14 @@
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\bin\Debug\net8.0\ServerLabWork27.exe
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\bin\Debug\net8.0\ServerLabWork27.deps.json
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\bin\Debug\net8.0\ServerLabWork27.runtimeconfig.json
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\bin\Debug\net8.0\ServerLabWork27.dll
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\bin\Debug\net8.0\ServerLabWork27.pdb
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\ServerLabWork27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\ServerLabWork27.AssemblyInfoInputs.cache
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\ServerLabWork27.AssemblyInfo.cs
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\ServerLabWork27.csproj.CoreCompileInputs.cache
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\ServerLabWork27.dll
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\refint\ServerLabWork27.dll
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\ServerLabWork27.pdb
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\ServerLabWork27.genruntimeconfig.cache
+C:\Users\221\source\repos\ServerLabWork27\ServerLabWork27\obj\Debug\net8.0\ref\ServerLabWork27.dll

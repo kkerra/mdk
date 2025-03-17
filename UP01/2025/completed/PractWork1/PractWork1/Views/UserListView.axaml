@@ -1,0 +1,29 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+			 xmlns:vm="clr-namespace:PractWork1.ViewModels"
+             x:Class="PractWork1.Views.UserListView"
+			 x:DataType="vm:UserListViewModel">
+	<Design.DataContext>
+		<vm:UserListViewModel/>
+	</Design.DataContext>
+	<UserControl.DataContext>
+		<vm:UserListViewModel/>
+	</UserControl.DataContext>
+
+	<Grid>
+		<ListBox ItemsSource="{Binding Users}">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Grid ColumnDefinitions="*,*,Auto">
+						<TextBlock Grid.Column="0" Text="{Binding Login}"/>
+						<TextBlock Grid.Column="1" Text="{Binding Email}"/>
+						<Button Grid.Column="2" Content="Удалить" Command="{Binding $parent[UserControl].DataContext.DeleteUserCommand}" CommandParameter="{Binding}"/>
+					</Grid>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</Grid>
+</UserControl>

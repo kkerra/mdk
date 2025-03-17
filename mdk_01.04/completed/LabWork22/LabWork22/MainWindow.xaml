@@ -1,0 +1,45 @@
+﻿<Window x:Class="LabWork22.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork22"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ListView x:Name="passwordsListView" Grid.Row="1">
+            <ListView.View>
+                <GridView>                    
+                    <GridViewColumn Header="Сайт" Width="250" DisplayMemberBinding="{Binding Site}"/>
+                    <GridViewColumn Header="Логин" Width="250" DisplayMemberBinding="{Binding Login}"/>
+                    <GridViewColumn Header="Пароль" Width="250" DisplayMemberBinding="{Binding Password}"/>
+                </GridView>                
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Row="2" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Сайт" Width="120"/>
+                <TextBox x:Name="siteTextBox" Width="200"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Логин" Width="120"/>
+                <TextBox x:Name="loginTextBox" Width="200"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Пароль" Width="120"/>
+                <TextBox x:Name="passwordTextBox" Width="200"/>
+                <Label Content="Длина пароля" Width="120"/>
+                <TextBox x:Name="passwordLengthTextBox" Width="200"/>
+                <Button x:Name="generatePasswordButton" Content="Сгенерировать пароль" Click="GeneratePasswordButton_Click"/>
+            </StackPanel>
+            <Button x:Name="addButton" Content="Добавить" Click="AddButton_Click" HorizontalAlignment="Left" Width="100"/>
+        </StackPanel> 
+    </Grid>
+</Window>

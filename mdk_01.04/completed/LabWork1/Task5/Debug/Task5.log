@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(541,5): warning MSB8029: Промежуточный каталог или каталог выхода не может располагаться во временном каталоге, потому что это может стать причиной проблем с добавочной сборкой.
+  Task5.cpp
+C:\Temp\ispp35\СП\LabWork1\Task5\Task5.cpp(10,14): warning C4305: инициализация: усечение из "double" в "float"
+  Task5.vcxproj -> C:\Temp\ispp35\СП\LabWork1\Debug\Task5.exe
