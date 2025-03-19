@@ -325,8 +325,7 @@ public class nameClass : Initializer {
 ## ```c# Методы ```
 
 ```c#
-[модификатор доступа]
-static | virtual | override | new | sealed | abstract // Модификаторы метода
+[модификатор доступа] static | virtual | override | new | sealed | abstract // Модификаторы метода
 методName (список параметров) { // тело }
 
 // virtual – метод может быть переопределен в подклассе
