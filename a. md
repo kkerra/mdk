@@ -116,3 +116,189 @@ namespace SimpleTextEditorWPF
 Ошибка	14	Требуется ";"	C:\Temp\испп-35\Lection0620\Tasks\SettingsWindow.xaml.cs	60	104	Tasks
 if (Enum.TryParse(colorSchemeComboBox.SelectedItem?.ToString() ?? string.Empty, out MainWindow.ColorScheme colorScheme))
 SelectedColorScheme = (MainWindow.ColorScheme)Enum.Parse(typeof(MainWindow.ColorScheme), colorSchemeComboBox.SelectedItem.ToString());
+
+using System;
+using System.IO;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Input;
+using System.Windows.Media;
+using Microsoft.Win32; // Для OpenFileDialog и SaveFileDialog
+
+namespace SimpleTextEditorWPF
+{
+    public partial class MainWindow : Window
+    {
+        private string currentFilePath = "";
+
+        // Настройки по умолчанию
+        private string selectedFontFamily = "Consolas";
+        private double selectedFontSize = 14;
+        private ColorScheme currentColorScheme = ColorScheme.Day;
+
+        public enum ColorScheme { Day, Night, Custom }
+
+        public MainWindow()
+        {
+            InitializeComponent();
+            ApplySettings();
+
+            // Подписываемся на события KeyDown
+            textBox.KeyDown += TextBox_KeyDown;
+            this.KeyDown += MainWindow_KeyDown;
+        }
+
+         private void MainWindow_KeyDown(object sender, KeyEventArgs e)
+        {
+             //  Перехватываем Ctrl+S и Ctrl+O на уровне формы, если нет фокуса на textBox
+            if (!textBox.IsFocused)
+            {
+                 HandleHotKeys(e);
+            }
+        }
+
+
+        private void TextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            HandleHotKeys(e);
+        }
+
+        private void HandleHotKeys(KeyEventArgs e)
+        {
+            if (e.Key == Key.S && Keyboard.Modifiers == ModifierKeys.Control)
+            {
+                SaveFile();
+                e.Handled = true;
+            }
+            else if (e.Key == Key.O && Keyboard.Modifiers == ModifierKeys.Control)
+            {
+                OpenFile();
+                e.Handled = true;
+            }
+        }
+
+
+        private void OpenMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFile();
+        }
+
+        private void SaveMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFile();
+        }
+
+        private void SaveFile()
+        {
+            if (string.IsNullOrEmpty(currentFilePath))
+            {
+                SaveFileDialog saveFileDialog = new SaveFileDialog();
+                saveFileDialog.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
+                if (saveFileDialog.ShowDialog() == true)
+                {
+                    currentFilePath = saveFileDialog.FileName;
+                    SaveTextToFile(currentFilePath);
+                }
+            }
+            else
+            {
+                SaveTextToFile(currentFilePath);
+            }
+        }
+
+        private void SaveTextToFile(string filePath)
+        {
+            try
+            {
+                File.WriteAllText(filePath, textBox.Text);
+                MessageBox.Show("Файл сохранен.", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ошибка при сохранении файла: " + ex.Message, "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void OpenFile()
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
+            if (openFileDialog.ShowDialog() == true)
+            {
+                currentFilePath = openFileDialog.FileName;
+                try
+                {
+                    textBox.Text = File.ReadAllText(currentFilePath);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Ошибка при открытии файла: " + ex.Message, "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                    currentFilePath = "";
+                }
+            }
+        }
+
+        private void NewMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            textBox.Clear();
+            currentFilePath = "";
+        }
+
+        private void SaveAsMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                currentFilePath = saveFileDialog.FileName;
+                SaveTextToFile(currentFilePath);
+            }
+        }
+
+        private void ExitMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
+
+        private void SettingsMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            SettingsWindow settingsWindow = new SettingsWindow(selectedFontFamily, selectedFontSize, currentColorScheme);
+            if (settingsWindow.ShowDialog() == true)
+            {
+                selectedFontFamily = settingsWindow.SelectedFontFamily;
+                selectedFontSize = settingsWindow.SelectedFontSize;
+                currentColorScheme = settingsWindow.SelectedColorScheme;
+
+                ApplySettings();
+            }
+        }
+
+
+        private void ApplySettings()
+        {
+            // Шрифт и размер текста
+            textBox.FontFamily = new FontFamily(selectedFontFamily);
+            textBox.FontSize = selectedFontSize;
+
+            // Цветовая схема
+            switch (currentColorScheme)
+            {
+                case ColorScheme.Day:
+                    textBox.Background = Brushes.White;
+                    textBox.Foreground = Brushes.Black;
+                    break;
+                case ColorScheme.Night:
+                    textBox.Background = Brushes.Black;
+                    textBox.Foreground = Brushes.LightGray;
+                    break;
+                case ColorScheme.Custom:
+                    //Здесь логика для пользовательской схемы, если нужно.
+                    //Например, вы можете добавить отдельные свойства
+                    //для цветов фона и текста в SettingsWindow и использовать их здесь.
+                    textBox.Background = Brushes.LightBlue;
+                    textBox.Foreground = Brushes.DarkRed;
+                    break;
+            }
+        }
+    }
+}
