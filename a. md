@@ -114,3 +114,4 @@ namespace SimpleTextEditorWPF
 Ошибка	10	Недопустимый элемент "out" в выражении	C:\Temp\испп-35\Lection0620\Tasks\SettingsWindow.xaml.cs	60	77	Tasks
 Ошибка	13	Недопустимый элемент ")" в выражении	C:\Temp\испп-35\Lection0620\Tasks\SettingsWindow.xaml.cs	60	104	Tasks
 Ошибка	14	Требуется ";"	C:\Temp\испп-35\Lection0620\Tasks\SettingsWindow.xaml.cs	60	104	Tasks
+if (Enum.TryParse(colorSchemeComboBox.SelectedItem?.ToString() ?? string.Empty, out MainWindow.ColorScheme colorScheme))
