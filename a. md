@@ -302,3 +302,10 @@ namespace SimpleTextEditorWPF
         }
     }
 }
+
+
+Необработанное исключение типа "System.ArgumentNullException" в PresentationCore.dll
+
+Дополнительные сведения: Значение не может быть неопределенным.
+
+inputTextBox.FontFamily = new FontFamily(selectedFontFamily);
