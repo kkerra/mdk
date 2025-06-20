@@ -309,3 +309,102 @@ namespace SimpleTextEditorWPF
 Дополнительные сведения: Значение не может быть неопределенным.
 
 inputTextBox.FontFamily = new FontFamily(selectedFontFamily);
+
+using Microsoft.Win32;
+using System;
+using System.IO;
+using System.Windows;
+using System.Windows.Input;
+
+namespace TextEditor
+{
+    public partial class MainWindow : Window
+    {
+        private string _currentFilePath;
+        private string _defaultFolder;
+
+        public MainWindow()
+        {
+            InitializeComponent();
+            LoadSettings();
+        }
+
+        private void LoadSettings()
+        {
+            // 5.3 Загрузка пути расположения программы
+            RegistryKey textEditorKey = Registry.LocalMachine.OpenSubKey(@"Software\ISPP\TextEditor");
+            if (textEditorKey != null)
+            {
+                string programPath = (string)textEditorKey.GetValue("Path");
+                if (!string.IsNullOrEmpty(programPath))
+                {
+                    // Используем путь программы
+                }
+            }
+
+            // 5.4 Загрузка пути по умолчанию для сохранения/открытия файлов
+            _defaultFolder = (string)textEditorKey?.GetValue("DefaultFolder");
+            if (string.IsNullOrEmpty(_defaultFolder))
+            {
+                _defaultFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            }
+        }
+
+        private void SaveFileAs()
+        {
+            Microsoft.Win32.SaveFileDialog saveFileDialog = new Microsoft.Win32.SaveFileDialog
+            {
+                Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*",
+                InitialDirectory = _defaultFolder
+            };
+
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                _currentFilePath = saveFileDialog.FileName;
+                File.WriteAllText(_currentFilePath, TextEditor.Text);
+                SaveSettings();
+            }
+        }
+
+        private void OpenFile(object sender, RoutedEventArgs e)
+        {
+            Microsoft.Win32.OpenFileDialog openFileDialog = new Microsoft.Win32.OpenFileDialog
+            {
+                Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*",
+                InitialDirectory = _defaultFolder
+            };
+
+            if (openFileDialog.ShowDialog() == true)
+            {
+                _currentFilePath = openFileDialog.FileName;
+                TextEditor.Text = File.ReadAllText(_currentFilePath);
+                SaveSettings();
+            }
+        }
+
+        private void SaveSettings()
+        {
+            RegistryKey textEditorKey = Registry.LocalMachine.OpenSubKey(@"Software\ISPP\TextEditor", true);
+            if (textEditorKey != null)
+            {
+                // 5.4 Сохранение пути по умолчанию для сохранения/открытия файлов
+                textEditorKey.SetValue("DefaultFolder", Path.GetDirectoryName(_currentFilePath));
+                textEditorKey.Close();
+            }
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            // 5.5 Добавление информации о программе в реестр
+            RegistryKey textEditorKey = Registry.LocalMachine.OpenSubKey(@"Software\ISPP\TextEditor\Info", true);
+            if (textEditorKey == null)
+            {
+                textEditorKey = Registry.LocalMachine.OpenSubKey(@"Software\ISPP\TextEditor", true).CreateSubKey("Info");
+            }
+
+            textEditorKey.SetValue("ApplicationDescription", "Текстовый редактор");
+            textEditorKey.SetValue("Version", "1.0");
+            textEditorKey.Close();
+        }
+    }
+}
