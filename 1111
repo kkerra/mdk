@@ -1,0 +1,39 @@
+     // Получение публичного ключа от сервера
+            byte[] keyLengthBytes = new byte[4];
+            stream.Read(keyLengthBytes, 0, 4);
+            int keyLength = BitConverter.ToInt32(keyLengthBytes, 0);
+            
+            byte[] publicKeyBytes = new byte[keyLength];
+            stream.Read(publicKeyBytes, 0, keyLength);
+            string publicKeyXml = Encoding.UTF8.GetString(publicKeyBytes);
+            
+            Console.WriteLine("Получен публичный ключ от сервера");
+            
+            // Генерация ключа и IV для AES
+            using (Aes aes = Aes.Create())
+            {
+                aes.GenerateKey();
+                aes.GenerateIV();
+                
+                byte[] aesKey = aes.Key;
+                byte[] aesIv = aes.IV;
+                
+                // Шифрование ключа AES с помощью публичного ключа RSA
+                using (RSACryptoServiceProvider rsa = new RSACryptoServiceProvider(2048))
+                {
+                    rsa.FromXmlString(publicKeyXml);
+                    
+                    byte[] encryptedAesKey = rsa.Encrypt(aesKey, false);
+                    byte[] encryptedAesIv = rsa.Encrypt(aesIv, false);
+                    
+                    // Отправка зашифрованного ключа AES
+                    byte[] keyLengthToSend = BitConverter.GetBytes(encryptedAesKey.Length);
+                    stream.Write(keyLengthToSend, 0, 4);
+                    stream.Write(encryptedAesKey, 0, encryptedAesKey.Length);
+                    
+                    // Отправка зашифрованного IV AES
+                    byte[] ivLengthToSend = BitConverter.GetBytes(encryptedAesIv.Length);
+                    stream.Write(ivLengthToSend, 0, 4);
+                    stream.Write(encryptedAesIv, 0, encryptedAesIv.Length);
+                    
+                    Console.WriteLine("Отправлен зашифрованный ключ AES серверу"); 
