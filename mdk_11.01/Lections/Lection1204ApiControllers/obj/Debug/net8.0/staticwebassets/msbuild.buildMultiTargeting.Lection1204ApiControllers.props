@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Lection1204ApiControllers.props" />
-</Project>

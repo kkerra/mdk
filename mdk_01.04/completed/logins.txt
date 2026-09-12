@@ -1,3 +1,0 @@
-login1;1
-login2;2
-login3;3
